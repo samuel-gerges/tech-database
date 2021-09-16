@@ -1,0 +1,1501 @@
+aid,cid,pid,note,avis,date_publi
+1,185,1,2,Qualité et durée de vie médiocre,2015-09-09
+ 2,170,2,1.5,Livraison Exemplaire,2017-02-01
+ 3,200,3,4.75,Excellent Produit,2018-10-05
+ 4,90,4,1.5,Qualité et durée de vie médiocre,2020-08-29
+ 5,139,5,4.5,Très satisfait de cet achat,2016-11-23
+ 6,42,6,1.25,Rapport qualité prix satisfaisante,2014-12-03
+ 7,110,7,4.25,Qualité et durée de vie médiocre,2018-12-17
+ 8,99,8,4,Article super,2017-04-10
+ 9,159,9,4.25,Excellent Produit,2014-03-10
+ 10,33,10,4,Article super,2016-07-04
+ 11,140,11,0.5,Article super,2015-01-05
+ 12,124,12,1,Qualité et durée de vie médiocre,2015-05-27
+ 13,174,13,1.25,Très satisfait de cet achat,2020-03-21
+ 14,98,14,0.75,Suivi déplorable,2019-04-06
+ 15,41,15,4,Très satisfait de cet achat,2015-05-24
+ 16,98,16,0.5,Suivi déplorable,2015-12-26
+ 17,172,17,4,Excellent Produit,2015-01-12
+ 18,87,18,2,Excellent Produit,2016-08-04
+ 19,160,19,2,Suivi déplorable,2013-06-17
+ 20,143,20,4.75,Excellent Produit,2019-10-11
+ 21,104,21,4.5,Excellent Produit,2019-12-15
+ 22,177,22,0.25,Excellent Produit,2018-06-12
+ 23,60,23,2.5,Rapport qualité prix satisfaisante,2020-05-05
+ 24,89,24,2,Excellent Produit,2014-04-10
+ 25,124,25,0.75,Qualité et durée de vie médiocre,2016-12-23
+ 26,197,26,0.25,Suivi déplorable,2015-03-21
+ 27,170,27,1.25,Livraison Exemplaire,2020-12-05
+ 28,7,28,2,Suivi déplorable,2017-12-09
+ 29,58,29,2,Suivi déplorable,2013-11-20
+ 30,30,30,4.5,Excellent Produit,2020-08-23
+ 31,23,31,5,Livraison Exemplaire,2019-07-13
+ 32,59,32,1.5,Livraison Exemplaire,2013-06-01
+ 33,157,33,0.5,Qualité et durée de vie médiocre,2013-09-18
+ 34,126,34,2.5,Très satisfait de cet achat,2016-11-11
+ 35,83,35,4.75,Rapport qualité prix satisfaisante,2020-08-26
+ 36,58,36,0.75,Article super,2015-05-13
+ 37,120,37,4.5,Très satisfait de cet achat,2016-08-22
+ 38,66,38,0.5,Très satisfait de cet achat,2015-07-28
+ 39,113,39,2.5,Très satisfait de cet achat,2018-07-17
+ 40,194,40,4.25,Article super,2017-03-05
+ 41,181,41,4,Très satisfait de cet achat,2017-10-12
+ 42,55,42,5,Suivi déplorable,2017-06-30
+ 43,146,43,4.5,Qualité et durée de vie médiocre,2015-05-15
+ 44,119,44,1.25,Rapport qualité prix satisfaisante,2020-09-13
+ 45,71,45,2.5,Très satisfait de cet achat,2017-11-15
+ 46,91,46,4.5,Livraison Exemplaire,2020-03-01
+ 47,52,47,1,Qualité et durée de vie médiocre,2020-08-06
+ 48,177,48,5,Livraison Exemplaire,2016-07-09
+ 49,89,49,1,Article super,2013-08-19
+ 50,119,50,1.5,Rapport qualité prix satisfaisante,2020-10-26
+ 51,12,51,4.5,Très satisfait de cet achat,2017-04-14
+ 52,42,52,0.5,Excellent Produit,2017-04-21
+ 53,164,53,4.25,Livraison Exemplaire,2021-02-11
+ 54,36,54,3.75,Livraison Exemplaire,2014-09-06
+ 55,187,55,0.75,Très satisfait de cet achat,2015-02-13
+ 56,18,56,5,Livraison Exemplaire,2013-11-05
+ 57,82,57,0.25,Très satisfait de cet achat,2014-11-28
+ 58,173,58,0.25,Qualité et durée de vie médiocre,2015-12-25
+ 59,13,59,0.75,Très satisfait de cet achat,2017-04-02
+ 60,40,60,4.25,Livraison Exemplaire,2014-07-30
+ 61,155,61,1.25,Livraison Exemplaire,2017-09-02
+ 62,6,62,0.5,Qualité et durée de vie médiocre,2014-08-05
+ 63,131,63,0.5,Très satisfait de cet achat,2016-04-18
+ 64,91,64,5,Article super,2017-04-02
+ 65,68,65,3.75,Article super,2017-02-27
+ 66,81,66,2,Excellent Produit,2019-06-13
+ 67,104,67,0.75,Suivi déplorable,2015-11-02
+ 68,90,68,3.75,Excellent Produit,2013-11-19
+ 69,80,69,0.75,Rapport qualité prix satisfaisante,2020-04-24
+ 70,154,70,2.5,Suivi déplorable,2017-10-20
+ 71,196,71,0.75,Livraison Exemplaire,2013-06-10
+ 72,77,72,2.5,Livraison Exemplaire,2016-04-18
+ 73,149,73,0.5,Très satisfait de cet achat,2016-11-12
+ 74,67,74,4.5,Article super,2017-06-26
+ 75,185,75,4,Suivi déplorable,2015-08-27
+ 76,137,76,1,Excellent Produit,2020-02-13
+ 77,45,77,0.5,Livraison Exemplaire,2020-11-02
+ 78,126,78,4.25,Suivi déplorable,2017-05-03
+ 79,169,79,1.25,Rapport qualité prix satisfaisante,2014-05-15
+ 80,178,80,4,Qualité et durée de vie médiocre,2016-10-05
+ 81,95,81,4.5,Rapport qualité prix satisfaisante,2015-05-24
+ 82,82,82,5,Livraison Exemplaire,2015-06-07
+ 83,200,83,5,Article super,2014-09-29
+ 84,144,84,4.5,Excellent Produit,2015-04-04
+ 85,192,85,1,Rapport qualité prix satisfaisante,2019-11-21
+ 86,106,86,4.5,Très satisfait de cet achat,2015-10-30
+ 87,115,87,0.75,Suivi déplorable,2015-06-30
+ 88,10,88,4.75,Rapport qualité prix satisfaisante,2017-10-30
+ 89,21,89,4.25,Rapport qualité prix satisfaisante,2014-10-14
+ 90,102,90,1.5,Qualité et durée de vie médiocre,2017-10-26
+ 91,185,91,4.75,Livraison Exemplaire,2019-11-01
+ 92,190,92,0.5,Très satisfait de cet achat,2014-01-17
+ 93,199,93,4.25,Suivi déplorable,2013-11-28
+ 94,86,94,5,Suivi déplorable,2016-12-04
+ 95,200,95,0.75,Très satisfait de cet achat,2015-05-10
+ 96,72,96,3.75,Qualité et durée de vie médiocre,2020-07-30
+ 97,29,97,4.5,Excellent Produit,2013-11-16
+ 98,37,98,0.25,Excellent Produit,2016-04-09
+ 99,30,99,3.75,Qualité et durée de vie médiocre,2020-11-12
+ 100,79,100,0.5,Rapport qualité prix satisfaisante,2013-08-20
+101,131,101,4,Suivi déplorable,2015-03-15
+ 102,108,102,2,Article super,2018-12-20
+ 103,3,103,5,Livraison Exemplaire,2016-09-16
+ 104,20,104,4.75,Suivi déplorable,2014-11-19
+ 105,125,105,2,Excellent Produit,2020-01-24
+ 106,148,106,0.25,Excellent Produit,2018-07-04
+ 107,193,107,4.25,Très satisfait de cet achat,2019-06-23
+ 108,99,108,4,Très satisfait de cet achat,2013-09-26
+ 109,7,109,0.25,Suivi déplorable,2015-09-11
+ 110,52,110,0.25,Rapport qualité prix satisfaisante,2019-04-29
+ 111,70,111,1.5,Très satisfait de cet achat,2015-07-07
+ 112,78,112,2.5,Article super,2014-07-13
+ 113,11,113,4,Qualité et durée de vie médiocre,2015-11-27
+ 114,193,114,4,Très satisfait de cet achat,2013-12-08
+ 115,186,115,1.5,Excellent Produit,2018-12-03
+ 116,125,116,4,Article super,2013-07-28
+ 117,122,117,4.75,Article super,2014-09-20
+ 118,137,118,1,Article super,2014-05-02
+ 119,104,119,4.75,Très satisfait de cet achat,2018-01-15
+ 120,168,120,4.75,Rapport qualité prix satisfaisante,2013-07-11
+ 121,11,121,4.5,Très satisfait de cet achat,2015-03-20
+ 122,109,122,1,Rapport qualité prix satisfaisante,2017-04-30
+ 123,174,123,4,Très satisfait de cet achat,2019-04-26
+ 124,153,124,1,Excellent Produit,2019-06-14
+ 125,112,125,2.5,Article super,2018-09-30
+ 126,18,126,3.75,Livraison Exemplaire,2014-01-14
+ 127,30,127,4.75,Rapport qualité prix satisfaisante,2020-10-12
+ 128,108,128,1.5,Excellent Produit,2018-04-25
+ 129,57,129,2,Article super,2013-08-23
+ 130,32,130,3.75,Rapport qualité prix satisfaisante,2020-06-05
+ 131,24,131,2,Suivi déplorable,2019-12-22
+ 132,97,132,3.75,Suivi déplorable,2013-08-07
+ 133,44,133,0.75,Rapport qualité prix satisfaisante,2019-12-01
+ 134,141,134,1.5,Excellent Produit,2014-01-18
+ 135,151,135,1.25,Rapport qualité prix satisfaisante,2020-10-17
+ 136,57,136,1.5,Suivi déplorable,2021-04-11
+ 137,35,137,1,Article super,2018-04-09
+ 138,10,138,0.5,Livraison Exemplaire,2014-08-19
+ 139,136,139,1,Rapport qualité prix satisfaisante,2019-06-23
+ 140,40,140,4.25,Excellent Produit,2020-12-07
+ 141,194,141,4,Rapport qualité prix satisfaisante,2014-02-23
+ 142,20,142,4,Excellent Produit,2020-01-28
+ 143,143,143,4.5,Suivi déplorable,2017-09-17
+ 144,46,144,2.5,Article super,2018-02-11
+ 145,120,145,0.25,Qualité et durée de vie médiocre,2016-03-13
+ 146,58,146,4.25,Livraison Exemplaire,2018-01-08
+ 147,49,147,4.5,Très satisfait de cet achat,2019-11-15
+ 148,168,148,0.25,Livraison Exemplaire,2016-09-08
+ 149,3,149,4.25,Qualité et durée de vie médiocre,2015-02-25
+ 150,169,150,0.5,Article super,2019-08-22
+ 151,55,151,0.5,Excellent Produit,2013-08-22
+ 152,160,152,2.5,Très satisfait de cet achat,2019-04-21
+ 153,145,153,5,Article super,2018-11-22
+ 154,79,154,4,Très satisfait de cet achat,2017-09-07
+ 155,64,155,1.5,Article super,2016-01-22
+ 156,10,156,1.25,Article super,2019-06-14
+ 157,93,157,1.5,Article super,2020-05-25
+ 158,49,158,5,Article super,2017-07-13
+ 159,103,159,5,Livraison Exemplaire,2018-11-01
+ 160,61,160,0.75,Rapport qualité prix satisfaisante,2015-09-02
+ 161,77,161,4.25,Article super,2017-11-29
+ 162,3,162,1,Rapport qualité prix satisfaisante,2018-12-19
+ 163,76,163,0.5,Excellent Produit,2020-06-03
+ 164,112,164,5,Rapport qualité prix satisfaisante,2019-07-13
+ 165,20,165,4.5,Qualité et durée de vie médiocre,2016-06-11
+ 166,118,166,0.25,Très satisfait de cet achat,2020-03-24
+ 167,74,167,4.5,Très satisfait de cet achat,2016-03-24
+ 168,172,168,1.5,Article super,2013-05-26
+ 169,160,169,0.5,Livraison Exemplaire,2014-02-25
+ 170,124,170,0.75,Article super,2013-12-28
+ 171,100,171,4,Suivi déplorable,2017-11-08
+ 172,111,172,1.5,Article super,2017-01-05
+ 173,187,173,1,Livraison Exemplaire,2014-06-08
+ 174,149,174,1,Article super,2013-12-31
+ 175,29,175,4.75,Très satisfait de cet achat,2018-08-28
+ 176,188,176,0.5,Livraison Exemplaire,2020-02-16
+ 177,106,177,4.25,Article super,2017-06-26
+ 178,179,178,0.75,Très satisfait de cet achat,2018-07-29
+ 179,135,179,4.75,Suivi déplorable,2017-02-26
+ 180,78,180,2,Suivi déplorable,2018-01-07
+ 181,75,181,5,Livraison Exemplaire,2020-07-30
+ 182,104,182,2.5,Article super,2017-06-08
+ 183,83,183,0.75,Suivi déplorable,2020-10-23
+ 184,147,184,2.5,Très satisfait de cet achat,2020-06-10
+ 185,32,185,0.25,Excellent Produit,2020-11-26
+ 186,105,186,5,Suivi déplorable,2013-11-10
+ 187,64,187,5,Rapport qualité prix satisfaisante,2020-12-24
+ 188,51,188,1.25,Rapport qualité prix satisfaisante,2018-08-18
+ 189,162,189,1,Suivi déplorable,2016-08-31
+ 190,108,190,1,Rapport qualité prix satisfaisante,2013-08-14
+ 191,114,191,2,Article super,2017-10-01
+ 192,82,192,0.75,Article super,2017-06-13
+ 193,109,193,1.5,Rapport qualité prix satisfaisante,2013-10-14
+ 194,11,194,3.75,Rapport qualité prix satisfaisante,2019-03-14
+ 195,147,195,1.5,Suivi déplorable,2021-02-04
+ 196,192,196,4.25,Excellent Produit,2017-09-27
+ 197,153,197,0.5,Qualité et durée de vie médiocre,2017-06-20
+ 198,181,198,4.5,Très satisfait de cet achat,2015-11-17
+ 199,57,199,4.75,Suivi déplorable,2018-01-31
+ 200,94,200,1.25,Livraison Exemplaire,2019-10-16
+201,179,201,2.5,Rapport qualité prix satisfaisante,2013-12-28
+ 202,142,202,4,Excellent Produit,2020-05-23
+ 203,176,203,2.5,Article super,2020-02-11
+ 204,177,204,1.5,Livraison Exemplaire,2021-04-04
+ 205,59,205,3.75,Très satisfait de cet achat,2020-03-23
+ 206,100,206,0.5,Qualité et durée de vie médiocre,2016-02-14
+ 207,106,207,4.25,Qualité et durée de vie médiocre,2016-12-07
+ 208,127,208,0.25,Suivi déplorable,2014-10-12
+ 209,171,209,2,Qualité et durée de vie médiocre,2018-01-27
+ 210,34,210,0.5,Qualité et durée de vie médiocre,2016-08-31
+ 211,51,211,3.75,Suivi déplorable,2014-09-02
+ 212,23,212,0.75,Qualité et durée de vie médiocre,2014-11-04
+ 213,104,213,0.75,Très satisfait de cet achat,2020-12-28
+ 214,121,214,2.5,Article super,2018-01-06
+ 215,61,215,0.25,Très satisfait de cet achat,2014-12-13
+ 216,20,216,4.25,Suivi déplorable,2014-10-13
+ 217,143,217,5,Suivi déplorable,2015-04-03
+ 218,114,218,1.5,Suivi déplorable,2017-08-31
+ 219,129,219,1,Rapport qualité prix satisfaisante,2015-11-24
+ 220,25,220,0.75,Article super,2017-07-02
+ 221,175,221,1.5,Article super,2019-07-08
+ 222,105,222,4.25,Qualité et durée de vie médiocre,2015-08-01
+ 223,87,223,4.25,Livraison Exemplaire,2020-01-02
+ 224,10,224,0.25,Suivi déplorable,2018-01-27
+ 225,192,225,2,Très satisfait de cet achat,2016-05-14
+ 226,181,226,1,Qualité et durée de vie médiocre,2017-02-18
+ 227,175,227,4.25,Livraison Exemplaire,2017-11-09
+ 228,55,228,3.75,Suivi déplorable,2017-01-29
+ 229,150,229,3.75,Livraison Exemplaire,2015-08-14
+ 230,6,230,4.5,Livraison Exemplaire,2015-01-14
+ 231,162,231,5,Rapport qualité prix satisfaisante,2018-12-17
+ 232,39,232,4,Qualité et durée de vie médiocre,2017-09-11
+ 233,111,233,4.25,Suivi déplorable,2020-02-29
+ 234,180,234,0.25,Rapport qualité prix satisfaisante,2014-07-27
+ 235,131,235,4.5,Très satisfait de cet achat,2013-06-08
+ 236,42,236,0.75,Très satisfait de cet achat,2014-09-24
+ 237,173,237,1,Excellent Produit,2013-07-10
+ 238,134,238,1.25,Qualité et durée de vie médiocre,2017-10-08
+ 239,53,239,0.5,Excellent Produit,2018-12-30
+ 240,119,240,0.75,Suivi déplorable,2019-06-13
+ 241,186,241,0.75,Rapport qualité prix satisfaisante,2018-01-26
+ 242,109,242,0.25,Livraison Exemplaire,2018-04-07
+ 243,79,243,2.5,Rapport qualité prix satisfaisante,2014-08-10
+ 244,142,244,0.5,Livraison Exemplaire,2014-05-07
+ 245,172,245,0.5,Très satisfait de cet achat,2015-10-30
+ 246,100,246,0.25,Suivi déplorable,2016-08-16
+ 247,10,247,2,Très satisfait de cet achat,2013-11-04
+ 248,145,248,3.75,Article super,2018-04-08
+ 249,26,249,0.75,Article super,2014-04-14
+ 250,16,250,3.75,Article super,2013-12-11
+ 251,13,251,1.25,Qualité et durée de vie médiocre,2019-11-16
+ 252,61,252,4.5,Livraison Exemplaire,2021-02-19
+ 253,110,253,3.75,Qualité et durée de vie médiocre,2020-01-14
+ 254,98,254,4,Qualité et durée de vie médiocre,2020-06-22
+ 255,119,255,4,Excellent Produit,2021-02-14
+ 256,66,256,3.75,Qualité et durée de vie médiocre,2014-05-21
+ 257,90,257,0.5,Très satisfait de cet achat,2017-03-15
+ 258,56,258,4,Qualité et durée de vie médiocre,2014-05-17
+ 259,103,259,4,Livraison Exemplaire,2019-11-01
+ 260,42,260,0.25,Très satisfait de cet achat,2020-11-03
+ 261,42,261,3.75,Suivi déplorable,2020-01-26
+ 262,173,262,1.25,Excellent Produit,2018-02-02
+ 263,53,263,4.75,Qualité et durée de vie médiocre,2020-09-18
+ 264,39,264,4.75,Suivi déplorable,2014-07-26
+ 265,82,265,0.5,Article super,2015-09-02
+ 266,69,266,4.5,Article super,2015-04-10
+ 267,58,267,4.75,Article super,2016-02-03
+ 268,125,268,1.5,Qualité et durée de vie médiocre,2017-05-14
+ 269,147,269,3.75,Excellent Produit,2018-07-27
+ 270,125,270,5,Livraison Exemplaire,2016-05-30
+ 271,29,271,0.75,Très satisfait de cet achat,2016-09-18
+ 272,45,272,4.75,Livraison Exemplaire,2016-09-13
+ 273,85,273,5,Rapport qualité prix satisfaisante,2018-02-03
+ 274,55,274,1.25,Qualité et durée de vie médiocre,2013-06-03
+ 275,90,275,4,Article super,2014-07-01
+ 276,199,276,0.25,Excellent Produit,2017-09-23
+ 277,87,277,4.25,Suivi déplorable,2020-08-04
+ 278,4,278,1.25,Suivi déplorable,2014-07-13
+ 279,161,279,0.25,Article super,2020-08-30
+ 280,143,280,4,Qualité et durée de vie médiocre,2015-01-07
+ 281,200,281,4.25,Qualité et durée de vie médiocre,2017-10-18
+ 282,184,282,1.25,Suivi déplorable,2015-07-20
+ 283,115,283,0.25,Excellent Produit,2020-06-29
+ 284,63,284,1,Article super,2019-02-07
+ 285,59,285,0.5,Très satisfait de cet achat,2019-09-29
+ 286,84,286,2.5,Article super,2016-03-03
+ 287,51,287,1,Rapport qualité prix satisfaisante,2017-12-18
+ 288,50,288,2.5,Très satisfait de cet achat,2020-08-27
+ 289,155,289,1,Rapport qualité prix satisfaisante,2014-07-05
+ 290,171,290,1.25,Très satisfait de cet achat,2017-12-30
+ 291,8,291,1.25,Rapport qualité prix satisfaisante,2020-11-28
+ 292,16,292,3.75,Très satisfait de cet achat,2020-01-26
+ 293,183,293,2,Qualité et durée de vie médiocre,2021-01-26
+ 294,70,294,1.5,Très satisfait de cet achat,2015-04-07
+ 295,24,295,0.75,Excellent Produit,2019-10-31
+ 296,43,296,2,Très satisfait de cet achat,2016-11-14
+ 297,102,297,1,Qualité et durée de vie médiocre,2014-10-21
+ 298,103,298,1,Qualité et durée de vie médiocre,2017-04-12
+ 299,24,299,0.75,Livraison Exemplaire,2014-12-03
+ 300,195,300,4,Rapport qualité prix satisfaisante,2018-04-29
+301,23,301,1,Excellent Produit,2014-02-14
+ 302,113,302,0.5,Suivi déplorable,2018-01-01
+ 303,44,303,3.75,Suivi déplorable,2016-11-23
+ 304,165,304,1,Suivi déplorable,2013-07-17
+ 305,171,305,3.75,Très satisfait de cet achat,2019-09-20
+ 306,125,306,2,Très satisfait de cet achat,2014-04-02
+ 307,155,307,4.5,Suivi déplorable,2017-08-21
+ 308,140,308,1.5,Excellent Produit,2021-03-05
+ 309,41,309,0.75,Suivi déplorable,2013-07-25
+ 310,138,310,0.75,Rapport qualité prix satisfaisante,2018-08-16
+ 311,50,311,1.25,Excellent Produit,2018-12-12
+ 312,7,312,4.75,Rapport qualité prix satisfaisante,2017-01-15
+ 313,58,313,4.75,Excellent Produit,2016-05-19
+ 314,56,314,0.5,Rapport qualité prix satisfaisante,2013-11-28
+ 315,111,315,1.25,Très satisfait de cet achat,2016-03-03
+ 316,191,316,4.25,Excellent Produit,2017-08-18
+ 317,46,317,3.75,Qualité et durée de vie médiocre,2017-01-01
+ 318,5,318,2,Excellent Produit,2020-12-31
+ 319,64,319,1.5,Très satisfait de cet achat,2020-02-02
+ 320,190,320,0.5,Livraison Exemplaire,2014-07-28
+ 321,89,321,0.75,Livraison Exemplaire,2016-10-20
+ 322,47,322,2.5,Suivi déplorable,2015-04-15
+ 323,72,323,0.5,Rapport qualité prix satisfaisante,2018-09-25
+ 324,120,324,2.5,Article super,2014-01-01
+ 325,136,325,4,Qualité et durée de vie médiocre,2017-03-26
+ 326,50,326,1,Qualité et durée de vie médiocre,2018-02-23
+ 327,29,327,0.5,Très satisfait de cet achat,2017-04-16
+ 328,120,328,0.25,Suivi déplorable,2018-10-08
+ 329,25,329,2,Excellent Produit,2014-11-30
+ 330,165,330,0.25,Excellent Produit,2018-06-19
+ 331,78,331,5,Rapport qualité prix satisfaisante,2017-12-27
+ 332,142,332,1.5,Suivi déplorable,2019-01-03
+ 333,101,333,1.5,Excellent Produit,2020-11-29
+ 334,179,334,0.5,Excellent Produit,2014-01-20
+ 335,178,335,0.25,Rapport qualité prix satisfaisante,2013-05-06
+ 336,104,336,5,Suivi déplorable,2014-08-11
+ 337,4,337,1.25,Rapport qualité prix satisfaisante,2020-11-25
+ 338,166,338,1.5,Très satisfait de cet achat,2019-12-23
+ 339,69,339,1.25,Suivi déplorable,2013-05-24
+ 340,113,340,0.5,Article super,2013-10-02
+ 341,174,341,2.5,Excellent Produit,2017-12-19
+ 342,32,342,3.75,Suivi déplorable,2018-11-13
+ 343,85,343,4,Rapport qualité prix satisfaisante,2014-05-19
+ 344,157,344,1,Qualité et durée de vie médiocre,2015-07-09
+ 345,100,345,4.5,Très satisfait de cet achat,2020-03-10
+ 346,22,346,2,Livraison Exemplaire,2018-07-26
+ 347,182,347,2.5,Article super,2021-03-19
+ 348,6,348,5,Article super,2014-09-29
+ 349,140,349,3.75,Qualité et durée de vie médiocre,2013-09-27
+ 350,186,350,3.75,Suivi déplorable,2020-11-07
+ 351,37,351,4.75,Rapport qualité prix satisfaisante,2018-05-30
+ 352,116,352,0.5,Très satisfait de cet achat,2015-12-20
+ 353,146,353,2.5,Excellent Produit,2018-12-11
+ 354,153,354,1.5,Très satisfait de cet achat,2017-08-09
+ 355,83,355,0.25,Rapport qualité prix satisfaisante,2019-02-12
+ 356,171,356,2.5,Suivi déplorable,2017-03-13
+ 357,59,357,1.25,Qualité et durée de vie médiocre,2018-03-14
+ 358,163,358,0.5,Très satisfait de cet achat,2020-07-06
+ 359,15,359,5,Article super,2017-05-15
+ 360,180,360,4.5,Livraison Exemplaire,2021-04-20
+ 361,106,361,1.5,Excellent Produit,2014-01-26
+ 362,9,362,1,Excellent Produit,2015-04-15
+ 363,131,363,2,Rapport qualité prix satisfaisante,2016-12-20
+ 364,69,364,4.5,Très satisfait de cet achat,2020-04-18
+ 365,134,365,4.5,Excellent Produit,2016-01-03
+ 366,145,366,2.5,Livraison Exemplaire,2014-01-10
+ 367,198,367,2,Livraison Exemplaire,2018-10-26
+ 368,32,368,0.25,Très satisfait de cet achat,2020-07-20
+ 369,99,369,1.25,Suivi déplorable,2015-03-10
+ 370,199,370,1.25,Livraison Exemplaire,2014-09-07
+ 371,120,371,1,Excellent Produit,2014-12-22
+ 372,141,372,0.5,Article super,2020-06-30
+ 373,32,373,1,Rapport qualité prix satisfaisante,2016-02-05
+ 374,94,374,5,Suivi déplorable,2019-01-09
+ 375,117,375,4.25,Suivi déplorable,2018-02-26
+ 376,187,376,4.5,Livraison Exemplaire,2021-02-21
+ 377,20,377,2,Livraison Exemplaire,2020-06-28
+ 378,180,378,0.5,Excellent Produit,2015-06-28
+ 379,94,379,4.5,Rapport qualité prix satisfaisante,2015-08-16
+ 380,194,380,0.5,Très satisfait de cet achat,2017-02-04
+ 381,78,381,1.25,Rapport qualité prix satisfaisante,2013-06-25
+ 382,72,382,4.25,Rapport qualité prix satisfaisante,2013-05-22
+ 383,165,383,2.5,Qualité et durée de vie médiocre,2015-10-06
+ 384,64,384,4.25,Article super,2020-12-07
+ 385,65,385,4.5,Article super,2016-12-19
+ 386,108,386,2,Excellent Produit,2014-12-13
+ 387,15,387,4,Rapport qualité prix satisfaisante,2020-09-09
+ 388,196,388,4,Livraison Exemplaire,2019-09-14
+ 389,38,389,5,Suivi déplorable,2018-11-20
+ 390,136,390,1,Livraison Exemplaire,2014-01-16
+ 391,44,391,4.25,Excellent Produit,2018-04-19
+ 392,137,392,1.25,Excellent Produit,2013-08-30
+ 393,177,393,4.5,Article super,2020-06-29
+ 394,162,394,4.25,Excellent Produit,2017-12-14
+ 395,22,395,4.75,Suivi déplorable,2020-12-21
+ 396,20,396,3.75,Qualité et durée de vie médiocre,2021-04-12
+ 397,134,397,0.25,Suivi déplorable,2015-09-11
+ 398,115,398,4.25,Très satisfait de cet achat,2015-04-27
+ 399,113,399,4.75,Livraison Exemplaire,2013-11-23
+ 400,50,400,0.5,Rapport qualité prix satisfaisante,2013-09-10
+401,101,401,4.75,Suivi déplorable,2017-12-30
+ 402,197,402,4,Excellent Produit,2018-06-12
+ 403,48,403,0.75,Article super,2015-04-02
+ 404,51,404,1.5,Qualité et durée de vie médiocre,2020-01-09
+ 405,195,405,5,Rapport qualité prix satisfaisante,2014-04-11
+ 406,75,406,4.25,Rapport qualité prix satisfaisante,2018-08-19
+ 407,33,407,4,Excellent Produit,2015-09-30
+ 408,176,408,1.5,Qualité et durée de vie médiocre,2019-10-22
+ 409,89,409,0.25,Excellent Produit,2017-02-06
+ 410,68,410,1.5,Livraison Exemplaire,2021-04-01
+ 411,177,411,5,Rapport qualité prix satisfaisante,2016-09-07
+ 412,105,412,0.5,Article super,2014-10-10
+ 413,127,413,2,Suivi déplorable,2017-06-02
+ 414,174,414,1,Rapport qualité prix satisfaisante,2015-01-06
+ 415,92,415,4,Suivi déplorable,2016-08-04
+ 416,76,416,4.5,Livraison Exemplaire,2015-11-06
+ 417,165,417,0.5,Article super,2019-10-18
+ 418,32,418,4.25,Rapport qualité prix satisfaisante,2018-06-28
+ 419,93,419,5,Qualité et durée de vie médiocre,2017-06-26
+ 420,10,420,4.5,Qualité et durée de vie médiocre,2014-05-25
+ 421,114,421,4.5,Qualité et durée de vie médiocre,2018-01-06
+ 422,200,422,0.25,Livraison Exemplaire,2019-11-22
+ 423,53,423,2,Qualité et durée de vie médiocre,2018-03-16
+ 424,137,424,1,Excellent Produit,2014-06-30
+ 425,167,425,1.25,Livraison Exemplaire,2013-12-19
+ 426,2,426,5,Excellent Produit,2021-01-05
+ 427,78,427,0.75,Qualité et durée de vie médiocre,2015-07-27
+ 428,109,428,2,Article super,2017-06-10
+ 429,61,429,5,Rapport qualité prix satisfaisante,2019-01-13
+ 430,45,430,1.25,Livraison Exemplaire,2014-01-03
+ 431,189,431,4.25,Très satisfait de cet achat,2017-04-29
+ 432,73,432,0.25,Très satisfait de cet achat,2017-05-01
+ 433,40,433,1,Qualité et durée de vie médiocre,2020-10-28
+ 434,8,434,0.75,Rapport qualité prix satisfaisante,2019-09-06
+ 435,26,435,1.5,Suivi déplorable,2017-06-12
+ 436,118,436,5,Qualité et durée de vie médiocre,2014-06-05
+ 437,111,437,4.5,Excellent Produit,2017-09-15
+ 438,166,438,0.5,Très satisfait de cet achat,2014-01-20
+ 439,82,439,4.75,Livraison Exemplaire,2017-06-25
+ 440,135,440,4,Rapport qualité prix satisfaisante,2018-10-14
+ 441,167,441,4.25,Qualité et durée de vie médiocre,2017-05-12
+ 442,36,442,3.75,Suivi déplorable,2018-07-21
+ 443,200,443,2.5,Article super,2014-01-15
+ 444,158,444,0.5,Livraison Exemplaire,2014-03-18
+ 445,129,445,4,Livraison Exemplaire,2017-04-08
+ 446,24,446,4.25,Excellent Produit,2013-11-27
+ 447,165,447,4,Article super,2017-12-25
+ 448,171,448,1,Article super,2017-11-30
+ 449,133,449,0.5,Suivi déplorable,2017-11-30
+ 450,70,450,1.25,Excellent Produit,2014-01-15
+ 451,164,451,0.25,Rapport qualité prix satisfaisante,2013-10-20
+ 452,124,452,1,Rapport qualité prix satisfaisante,2014-10-10
+ 453,191,453,4,Rapport qualité prix satisfaisante,2020-04-08
+ 454,5,454,4.25,Article super,2016-04-01
+ 455,135,455,4.75,Livraison Exemplaire,2014-09-04
+ 456,178,456,4.75,Rapport qualité prix satisfaisante,2015-07-11
+ 457,196,457,2,Article super,2016-04-17
+ 458,31,458,4.25,Excellent Produit,2020-10-17
+ 459,11,459,0.25,Qualité et durée de vie médiocre,2013-11-15
+ 460,153,460,3.75,Livraison Exemplaire,2021-03-06
+ 461,184,461,4.5,Qualité et durée de vie médiocre,2017-08-11
+ 462,72,462,4,Livraison Exemplaire,2017-04-27
+ 463,77,463,1,Très satisfait de cet achat,2020-08-17
+ 464,133,464,3.75,Article super,2017-03-10
+ 465,194,465,2,Article super,2021-02-05
+ 466,69,466,4.5,Livraison Exemplaire,2020-01-05
+ 467,102,467,4,Très satisfait de cet achat,2016-12-20
+ 468,23,468,2.5,Livraison Exemplaire,2014-12-11
+ 469,24,469,5,Qualité et durée de vie médiocre,2014-06-16
+ 470,175,470,5,Livraison Exemplaire,2016-06-03
+ 471,139,471,1,Article super,2015-02-23
+ 472,127,472,1.5,Article super,2015-05-13
+ 473,73,473,2.5,Très satisfait de cet achat,2015-12-09
+ 474,116,474,5,Suivi déplorable,2014-06-16
+ 475,177,475,0.25,Qualité et durée de vie médiocre,2016-12-14
+ 476,54,476,5,Article super,2013-08-31
+ 477,33,477,2.5,Article super,2019-01-23
+ 478,134,478,1,Livraison Exemplaire,2019-06-28
+ 479,106,479,5,Excellent Produit,2014-09-30
+ 480,18,480,1.5,Suivi déplorable,2019-09-20
+ 481,109,481,1.25,Très satisfait de cet achat,2020-02-24
+ 482,60,482,0.75,Excellent Produit,2020-07-16
+ 483,42,483,4.5,Qualité et durée de vie médiocre,2014-10-11
+ 484,192,484,4,Très satisfait de cet achat,2020-03-06
+ 485,162,485,4.5,Qualité et durée de vie médiocre,2013-06-29
+ 486,145,486,0.75,Article super,2013-07-08
+ 487,154,487,1,Excellent Produit,2014-04-09
+ 488,200,488,0.75,Qualité et durée de vie médiocre,2020-06-14
+ 489,39,489,4.5,Article super,2017-02-12
+ 490,58,490,3.75,Rapport qualité prix satisfaisante,2015-12-17
+ 491,188,491,1,Livraison Exemplaire,2017-12-25
+ 492,166,492,0.75,Rapport qualité prix satisfaisante,2018-02-26
+ 493,177,493,1.25,Excellent Produit,2016-11-20
+ 494,62,494,1.5,Rapport qualité prix satisfaisante,2020-11-07
+ 495,166,495,0.75,Très satisfait de cet achat,2015-11-07
+ 496,101,496,1,Suivi déplorable,2018-02-20
+ 497,163,497,4,Excellent Produit,2018-08-26
+ 498,58,498,2,Livraison Exemplaire,2017-10-28
+ 499,93,499,5,Rapport qualité prix satisfaisante,2016-12-18
+ 500,103,500,4.5,Suivi déplorable,2020-05-27
+501,100,501,0.75,Excellent Produit,2020-12-08
+ 502,103,502,0.25,Qualité et durée de vie médiocre,2016-01-26
+ 503,3,503,0.75,Article super,2017-02-18
+ 504,83,504,1.25,Très satisfait de cet achat,2014-12-26
+ 505,79,505,0.25,Livraison Exemplaire,2014-09-02
+ 506,95,506,1.25,Excellent Produit,2014-07-07
+ 507,49,507,1,Très satisfait de cet achat,2020-03-16
+ 508,106,508,1,Livraison Exemplaire,2018-09-17
+ 509,192,509,0.5,Excellent Produit,2017-02-10
+ 510,181,510,4.75,Article super,2017-10-04
+ 511,75,511,1.25,Rapport qualité prix satisfaisante,2015-03-22
+ 512,80,512,2.5,Qualité et durée de vie médiocre,2017-08-19
+ 513,132,513,5,Excellent Produit,2021-02-11
+ 514,42,514,1.25,Suivi déplorable,2020-04-02
+ 515,192,515,1.25,Excellent Produit,2020-01-30
+ 516,30,516,1.25,Très satisfait de cet achat,2018-06-22
+ 517,1,517,2.5,Rapport qualité prix satisfaisante,2014-08-07
+ 518,39,518,0.5,Article super,2014-06-25
+ 519,14,519,4.75,Rapport qualité prix satisfaisante,2014-07-31
+ 520,55,520,4,Qualité et durée de vie médiocre,2020-08-25
+ 521,114,521,5,Très satisfait de cet achat,2020-05-20
+ 522,11,522,0.25,Rapport qualité prix satisfaisante,2014-03-17
+ 523,16,523,0.25,Très satisfait de cet achat,2014-02-15
+ 524,33,524,2,Qualité et durée de vie médiocre,2016-07-15
+ 525,54,525,5,Livraison Exemplaire,2020-01-11
+ 526,40,526,1,Excellent Produit,2018-05-07
+ 527,192,527,1.5,Suivi déplorable,2016-12-22
+ 528,67,528,1.5,Article super,2017-03-13
+ 529,195,529,0.25,Livraison Exemplaire,2019-08-11
+ 530,192,530,0.75,Excellent Produit,2019-07-23
+ 531,87,531,4.75,Très satisfait de cet achat,2014-05-18
+ 532,154,532,2,Qualité et durée de vie médiocre,2017-02-19
+ 533,158,533,4,Livraison Exemplaire,2014-11-03
+ 534,48,534,0.5,Livraison Exemplaire,2013-09-16
+ 535,61,535,4.5,Livraison Exemplaire,2020-09-07
+ 536,58,536,4.5,Qualité et durée de vie médiocre,2015-04-26
+ 537,94,537,4.25,Livraison Exemplaire,2017-03-03
+ 538,38,538,0.75,Article super,2020-12-14
+ 539,83,539,1,Suivi déplorable,2013-11-18
+ 540,153,540,0.25,Très satisfait de cet achat,2017-01-25
+ 541,31,541,4.75,Rapport qualité prix satisfaisante,2019-04-15
+ 542,145,542,4,Suivi déplorable,2018-07-18
+ 543,135,543,5,Excellent Produit,2020-12-17
+ 544,104,544,2.5,Livraison Exemplaire,2018-05-22
+ 545,188,545,1,Livraison Exemplaire,2019-12-06
+ 546,58,546,4.25,Qualité et durée de vie médiocre,2017-08-04
+ 547,105,547,4.75,Très satisfait de cet achat,2013-07-22
+ 548,191,548,3.75,Qualité et durée de vie médiocre,2018-06-01
+ 549,162,549,1.5,Article super,2014-12-07
+ 550,65,550,4,Excellent Produit,2017-10-10
+ 551,187,551,4.25,Très satisfait de cet achat,2020-06-15
+ 552,120,552,0.25,Livraison Exemplaire,2020-01-20
+ 553,26,553,1.25,Livraison Exemplaire,2018-02-23
+ 554,135,554,1.25,Article super,2017-01-13
+ 555,193,555,2,Rapport qualité prix satisfaisante,2021-03-24
+ 556,29,556,5,Article super,2017-03-26
+ 557,135,557,0.25,Très satisfait de cet achat,2015-12-23
+ 558,24,558,5,Suivi déplorable,2017-05-16
+ 559,185,559,4.5,Qualité et durée de vie médiocre,2020-10-16
+ 560,41,560,1.25,Qualité et durée de vie médiocre,2014-09-03
+ 561,90,561,0.75,Article super,2020-07-19
+ 562,112,562,5,Livraison Exemplaire,2018-08-20
+ 563,24,563,0.75,Très satisfait de cet achat,2016-04-19
+ 564,199,564,5,Très satisfait de cet achat,2020-05-27
+ 565,50,565,4.75,Livraison Exemplaire,2015-12-31
+ 566,194,566,4.5,Excellent Produit,2021-01-05
+ 567,110,567,4.75,Qualité et durée de vie médiocre,2019-07-24
+ 568,43,568,4.5,Article super,2019-11-21
+ 569,199,569,2.5,Suivi déplorable,2014-09-05
+ 570,99,570,0.75,Suivi déplorable,2017-08-09
+ 571,49,571,4.25,Excellent Produit,2014-07-28
+ 572,26,572,4.25,Suivi déplorable,2020-01-14
+ 573,178,573,0.5,Très satisfait de cet achat,2021-02-15
+ 574,53,574,0.75,Livraison Exemplaire,2021-02-05
+ 575,86,575,2.5,Très satisfait de cet achat,2015-05-06
+ 576,80,576,0.25,Rapport qualité prix satisfaisante,2019-11-16
+ 577,103,577,1,Rapport qualité prix satisfaisante,2018-05-09
+ 578,45,578,4.5,Qualité et durée de vie médiocre,2016-03-27
+ 579,81,579,0.75,Excellent Produit,2018-10-27
+ 580,7,580,2.5,Qualité et durée de vie médiocre,2014-06-16
+ 581,136,581,1,Livraison Exemplaire,2014-07-17
+ 582,165,582,1,Suivi déplorable,2016-05-07
+ 583,80,583,1,Excellent Produit,2014-07-05
+ 584,75,584,2.5,Rapport qualité prix satisfaisante,2019-04-09
+ 585,28,585,2.5,Qualité et durée de vie médiocre,2015-06-11
+ 586,5,586,5,Qualité et durée de vie médiocre,2013-06-21
+ 587,139,587,1.5,Rapport qualité prix satisfaisante,2015-05-26
+ 588,160,588,4.25,Suivi déplorable,2020-07-04
+ 589,113,589,4.75,Article super,2013-12-16
+ 590,76,590,4.5,Très satisfait de cet achat,2018-03-17
+ 591,16,591,1.25,Très satisfait de cet achat,2019-12-08
+ 592,63,592,1.25,Très satisfait de cet achat,2020-03-29
+ 593,34,593,0.5,Article super,2019-03-16
+ 594,30,594,4.75,Article super,2019-03-26
+ 595,5,595,4.75,Très satisfait de cet achat,2013-07-08
+ 596,142,596,4,Livraison Exemplaire,2017-09-14
+ 597,138,597,0.5,Article super,2019-12-16
+ 598,82,598,1.5,Article super,2017-06-29
+ 599,154,599,4.75,Qualité et durée de vie médiocre,2020-10-04
+ 600,118,600,5,Rapport qualité prix satisfaisante,2016-04-01
+601,193,601,1,Suivi déplorable,2018-09-24
+ 602,8,602,4,Rapport qualité prix satisfaisante,2019-01-08
+ 603,83,603,4.75,Excellent Produit,2015-12-13
+ 604,50,604,4.75,Excellent Produit,2019-06-21
+ 605,154,605,4.75,Article super,2013-11-22
+ 606,185,606,1.25,Article super,2019-09-02
+ 607,13,607,3.75,Suivi déplorable,2017-11-03
+ 608,166,608,1.25,Rapport qualité prix satisfaisante,2021-03-23
+ 609,196,609,0.5,Suivi déplorable,2020-06-10
+ 610,144,610,0.75,Rapport qualité prix satisfaisante,2017-11-07
+ 611,23,611,0.5,Article super,2014-11-05
+ 612,183,612,0.5,Excellent Produit,2015-05-04
+ 613,64,613,1.25,Qualité et durée de vie médiocre,2019-10-12
+ 614,185,614,1,Qualité et durée de vie médiocre,2017-11-11
+ 615,6,615,1.5,Rapport qualité prix satisfaisante,2017-05-08
+ 616,115,616,2,Rapport qualité prix satisfaisante,2016-10-03
+ 617,96,617,1.25,Très satisfait de cet achat,2016-04-30
+ 618,86,618,0.5,Livraison Exemplaire,2014-03-06
+ 619,85,619,4,Livraison Exemplaire,2020-07-20
+ 620,107,620,0.5,Rapport qualité prix satisfaisante,2014-01-17
+ 621,191,621,0.5,Rapport qualité prix satisfaisante,2013-11-17
+ 622,136,622,1,Livraison Exemplaire,2017-01-22
+ 623,59,623,3.75,Rapport qualité prix satisfaisante,2016-09-27
+ 624,151,624,1.25,Très satisfait de cet achat,2013-12-12
+ 625,176,625,0.75,Très satisfait de cet achat,2019-05-09
+ 626,73,626,0.5,Suivi déplorable,2020-10-06
+ 627,95,627,4.5,Rapport qualité prix satisfaisante,2015-02-03
+ 628,74,628,4,Excellent Produit,2020-04-07
+ 629,14,629,1.5,Article super,2015-03-11
+ 630,110,630,0.75,Qualité et durée de vie médiocre,2015-05-27
+ 631,71,631,1.25,Livraison Exemplaire,2017-12-14
+ 632,195,632,4.75,Rapport qualité prix satisfaisante,2019-11-03
+ 633,55,633,5,Très satisfait de cet achat,2016-09-21
+ 634,24,634,4,Livraison Exemplaire,2019-05-26
+ 635,13,635,4.5,Excellent Produit,2013-06-23
+ 636,83,636,0.25,Très satisfait de cet achat,2019-12-24
+ 637,118,637,1,Livraison Exemplaire,2021-04-15
+ 638,143,638,1.25,Livraison Exemplaire,2018-01-20
+ 639,101,639,2,Excellent Produit,2015-09-26
+ 640,5,640,5,Très satisfait de cet achat,2013-06-17
+ 641,111,641,4,Rapport qualité prix satisfaisante,2019-07-24
+ 642,46,642,4.5,Livraison Exemplaire,2017-05-31
+ 643,185,643,1.25,Qualité et durée de vie médiocre,2019-11-10
+ 644,124,644,4.5,Article super,2015-03-06
+ 645,127,645,0.5,Excellent Produit,2020-10-31
+ 646,180,646,1.5,Qualité et durée de vie médiocre,2016-01-02
+ 647,39,647,5,Qualité et durée de vie médiocre,2016-06-19
+ 648,195,648,5,Qualité et durée de vie médiocre,2019-10-05
+ 649,193,649,4,Article super,2020-10-20
+ 650,81,650,1,Rapport qualité prix satisfaisante,2014-01-05
+ 651,19,651,4.75,Rapport qualité prix satisfaisante,2021-01-14
+ 652,193,652,0.25,Rapport qualité prix satisfaisante,2019-09-11
+ 653,28,653,2.5,Suivi déplorable,2014-06-19
+ 654,83,654,3.75,Suivi déplorable,2016-12-26
+ 655,134,655,1.5,Suivi déplorable,2013-08-13
+ 656,58,656,4,Rapport qualité prix satisfaisante,2013-07-11
+ 657,154,657,1,Excellent Produit,2018-06-28
+ 658,11,658,4.5,Très satisfait de cet achat,2018-11-09
+ 659,172,659,4,Article super,2015-02-21
+ 660,52,660,1,Excellent Produit,2020-02-26
+ 661,89,661,2,Suivi déplorable,2017-03-22
+ 662,110,662,1,Article super,2019-01-11
+ 663,164,663,0.5,Rapport qualité prix satisfaisante,2018-07-04
+ 664,193,664,3.75,Suivi déplorable,2015-02-14
+ 665,170,665,4,Excellent Produit,2016-05-15
+ 666,42,666,0.5,Qualité et durée de vie médiocre,2021-02-23
+ 667,131,667,3.75,Très satisfait de cet achat,2020-09-15
+ 668,159,668,4,Rapport qualité prix satisfaisante,2018-09-25
+ 669,21,669,1.25,Excellent Produit,2016-12-27
+ 670,116,670,1.5,Suivi déplorable,2018-03-09
+ 671,95,671,1.5,Excellent Produit,2013-12-05
+ 672,21,672,0.75,Très satisfait de cet achat,2019-11-06
+ 673,198,673,2.5,Très satisfait de cet achat,2021-04-28
+ 674,96,674,5,Livraison Exemplaire,2014-02-24
+ 675,141,675,0.75,Suivi déplorable,2019-01-24
+ 676,53,676,0.25,Très satisfait de cet achat,2020-01-08
+ 677,171,677,1,Qualité et durée de vie médiocre,2017-02-06
+ 678,139,678,5,Suivi déplorable,2017-10-26
+ 679,45,679,1.25,Qualité et durée de vie médiocre,2018-11-05
+ 680,142,680,4.75,Suivi déplorable,2015-07-26
+ 681,69,681,2.5,Qualité et durée de vie médiocre,2019-04-01
+ 682,63,682,5,Qualité et durée de vie médiocre,2014-03-11
+ 683,4,683,0.75,Article super,2019-10-31
+ 684,67,684,0.75,Qualité et durée de vie médiocre,2016-12-11
+ 685,19,685,3.75,Suivi déplorable,2016-12-27
+ 686,87,686,2,Très satisfait de cet achat,2017-03-12
+ 687,54,687,3.75,Livraison Exemplaire,2014-11-05
+ 688,36,688,4,Article super,2016-08-17
+ 689,16,689,4.25,Livraison Exemplaire,2013-10-28
+ 690,59,690,5,Rapport qualité prix satisfaisante,2019-06-13
+ 691,89,691,2,Article super,2019-08-13
+ 692,116,692,1.25,Suivi déplorable,2020-07-26
+ 693,150,693,0.5,Qualité et durée de vie médiocre,2015-05-09
+ 694,132,694,1.25,Très satisfait de cet achat,2014-10-21
+ 695,82,695,0.75,Suivi déplorable,2017-05-25
+ 696,61,696,2.5,Livraison Exemplaire,2017-09-11
+ 697,78,697,2,Article super,2017-06-07
+ 698,138,698,4.25,Suivi déplorable,2014-04-20
+ 699,43,699,1.5,Qualité et durée de vie médiocre,2015-11-21
+ 700,156,700,1.5,Article super,2019-06-14
+ 701,171,152,0.25,Suivi déplorable,2017-09-28
+ 702,94,661,1.25,Très satisfait de cet achat,2015-04-10
+ 703,125,61,0.75,Excellent Produit,2020-10-04
+ 704,95,202,4.5,Excellent Produit,2018-04-08
+ 705,146,393,2,Qualité et durée de vie médiocre,2018-01-17
+ 706,109,386,3.75,Excellent Produit,2021-01-15
+ 707,16,643,0.75,Excellent Produit,2018-05-01
+ 708,14,272,1.25,Qualité et durée de vie médiocre,2014-06-28
+ 709,156,676,1.25,Livraison Exemplaire,2020-07-08
+ 710,152,240,2,Suivi déplorable,2020-08-07
+ 711,79,602,1.5,Suivi déplorable,2017-10-07
+ 712,189,170,0.75,Excellent Produit,2019-11-04
+ 713,139,618,1.5,Très satisfait de cet achat,2017-03-28
+ 714,44,679,0.75,Très satisfait de cet achat,2019-10-09
+ 715,111,397,0.75,Qualité et durée de vie médiocre,2019-01-24
+ 716,157,159,1,Article super,2017-12-31
+ 717,156,264,1,Suivi déplorable,2018-11-29
+ 718,183,24,0.25,Très satisfait de cet achat,2017-07-30
+ 719,112,167,3.75,Suivi déplorable,2018-01-18
+ 720,5,24,4.25,Excellent Produit,2019-06-17
+ 721,157,409,4.5,Suivi déplorable,2018-11-06
+ 722,23,406,4.25,Article super,2016-11-08
+ 723,82,68,0.25,Livraison Exemplaire,2014-06-30
+ 724,2,114,1.5,Excellent Produit,2017-05-08
+ 725,126,164,4.75,Très satisfait de cet achat,2017-03-06
+ 726,52,90,3.75,Excellent Produit,2019-09-04
+ 727,113,346,4.25,Rapport qualité prix satisfaisante,2019-04-05
+ 728,67,645,4.25,Très satisfait de cet achat,2020-09-02
+ 729,13,663,1.25,Rapport qualité prix satisfaisante,2016-03-24
+ 730,104,161,2,Article super,2013-10-31
+ 731,77,62,1.5,Article super,2014-02-17
+ 732,96,586,2,Suivi déplorable,2015-05-25
+ 733,118,58,3.75,Suivi déplorable,2017-12-05
+ 734,141,394,4,Article super,2015-10-03
+ 735,110,319,4.5,Très satisfait de cet achat,2015-12-07
+ 736,196,506,0.75,Suivi déplorable,2015-12-27
+ 737,127,629,4,Livraison Exemplaire,2013-11-01
+ 738,10,293,1.25,Livraison Exemplaire,2018-09-05
+ 739,23,351,1,Qualité et durée de vie médiocre,2018-01-14
+ 740,46,661,2,Rapport qualité prix satisfaisante,2013-11-03
+ 741,24,592,3.75,Article super,2018-02-24
+ 742,97,354,4.75,Qualité et durée de vie médiocre,2017-05-10
+ 743,193,246,1.25,Très satisfait de cet achat,2018-09-29
+ 744,29,150,5,Très satisfait de cet achat,2016-07-30
+ 745,49,387,1.25,Très satisfait de cet achat,2015-10-28
+ 746,62,80,0.25,Rapport qualité prix satisfaisante,2017-01-15
+ 747,93,364,0.25,Excellent Produit,2014-02-21
+ 748,27,545,0.75,Article super,2019-06-27
+ 749,166,551,2,Article super,2020-03-13
+ 750,134,700,3.75,Excellent Produit,2019-11-09
+ 751,167,516,5,Qualité et durée de vie médiocre,2018-01-01
+ 752,12,490,4,Très satisfait de cet achat,2016-08-18
+ 753,46,570,1,Rapport qualité prix satisfaisante,2016-12-19
+ 754,17,283,4.5,Suivi déplorable,2013-08-06
+ 755,22,126,1.5,Article super,2017-09-29
+ 756,173,533,2,Article super,2020-05-11
+ 757,26,445,1.25,Rapport qualité prix satisfaisante,2013-05-26
+ 758,15,591,4,Excellent Produit,2020-06-25
+ 759,16,289,3.75,Livraison Exemplaire,2018-10-29
+ 760,153,651,3.75,Excellent Produit,2018-07-01
+ 761,94,265,1.25,Suivi déplorable,2017-04-16
+ 762,83,672,4.5,Qualité et durée de vie médiocre,2015-01-02
+ 763,120,160,4.75,Livraison Exemplaire,2017-02-12
+ 764,67,489,2,Qualité et durée de vie médiocre,2020-03-23
+ 765,174,556,4.5,Excellent Produit,2020-09-17
+ 766,125,224,5,Très satisfait de cet achat,2014-01-21
+ 767,8,455,0.25,Article super,2014-01-15
+ 768,62,683,0.5,Article super,2019-08-20
+ 769,39,617,4.5,Livraison Exemplaire,2016-11-18
+ 770,110,348,0.5,Article super,2020-09-26
+ 771,60,20,4,Article super,2017-06-30
+ 772,101,47,2.5,Qualité et durée de vie médiocre,2017-11-16
+ 773,30,622,1.5,Article super,2019-08-16
+ 774,48,148,1.25,Très satisfait de cet achat,2021-05-01
+ 775,143,121,4.75,Rapport qualité prix satisfaisante,2020-11-05
+ 776,69,371,0.25,Livraison Exemplaire,2016-06-11
+ 777,109,476,2.5,Très satisfait de cet achat,2015-04-12
+ 778,168,48,4.25,Suivi déplorable,2016-03-13
+ 779,166,462,4.75,Suivi déplorable,2019-04-15
+ 780,44,214,1.5,Suivi déplorable,2014-09-22
+ 781,170,27,4,Excellent Produit,2018-08-18
+ 782,47,216,4,Très satisfait de cet achat,2016-04-05
+ 783,115,689,4.5,Rapport qualité prix satisfaisante,2018-09-03
+ 784,77,82,4.75,Article super,2020-01-18
+ 785,127,143,2.5,Très satisfait de cet achat,2016-12-22
+ 786,73,382,5,Très satisfait de cet achat,2019-07-06
+ 787,95,186,4.75,Excellent Produit,2018-09-19
+ 788,25,661,4.5,Très satisfait de cet achat,2019-07-24
+ 789,37,437,3.75,Article super,2019-12-15
+ 790,76,630,0.25,Rapport qualité prix satisfaisante,2020-04-08
+ 791,6,619,1,Article super,2017-10-23
+ 792,67,118,0.25,Livraison Exemplaire,2018-07-11
+ 793,46,80,2,Suivi déplorable,2015-05-27
+ 794,83,592,0.5,Article super,2017-10-04
+ 795,72,406,1.25,Très satisfait de cet achat,2013-10-10
+ 796,121,243,0.5,Rapport qualité prix satisfaisante,2016-02-06
+ 797,83,473,1.5,Article super,2018-11-03
+ 798,68,521,2.5,Article super,2018-08-28
+ 799,99,442,2.5,Livraison Exemplaire,2016-01-05
+ 800,139,627,4.75,Article super,2016-03-13
+ 801,154,626,5,Très satisfait de cet achat,2016-11-17
+ 802,105,307,4.75,Excellent Produit,2020-09-04
+ 803,42,592,2,Qualité et durée de vie médiocre,2021-04-13
+ 804,87,565,2.5,Article super,2018-07-31
+ 805,64,336,2.5,Très satisfait de cet achat,2018-12-26
+ 806,97,231,0.25,Article super,2015-10-03
+ 807,16,216,0.5,Qualité et durée de vie médiocre,2018-08-02
+ 808,71,351,3.75,Suivi déplorable,2017-02-07
+ 809,200,611,1.25,Livraison Exemplaire,2014-06-11
+ 810,179,254,4.5,Suivi déplorable,2014-11-08
+ 811,51,656,1.5,Article super,2017-01-08
+ 812,102,137,0.25,Rapport qualité prix satisfaisante,2017-08-18
+ 813,42,561,0.5,Très satisfait de cet achat,2019-01-05
+ 814,174,37,4.5,Suivi déplorable,2017-06-02
+ 815,156,386,0.5,Article super,2016-10-14
+ 816,31,31,4.75,Livraison Exemplaire,2015-08-20
+ 817,123,655,3.75,Rapport qualité prix satisfaisante,2020-06-22
+ 818,69,130,2,Suivi déplorable,2016-12-22
+ 819,49,502,1.5,Qualité et durée de vie médiocre,2016-09-05
+ 820,41,491,2.5,Rapport qualité prix satisfaisante,2014-07-16
+ 821,21,281,0.25,Livraison Exemplaire,2013-11-17
+ 822,33,254,1,Excellent Produit,2017-03-27
+ 823,196,17,4.5,Très satisfait de cet achat,2016-03-31
+ 824,199,213,4.75,Livraison Exemplaire,2018-08-18
+ 825,178,620,4.75,Très satisfait de cet achat,2021-01-16
+ 826,102,642,4,Qualité et durée de vie médiocre,2019-09-28
+ 827,175,401,1,Excellent Produit,2019-05-16
+ 828,140,557,4,Article super,2015-01-25
+ 829,27,242,4.25,Article super,2018-11-23
+ 830,31,156,4.5,Suivi déplorable,2014-09-01
+ 831,156,258,0.5,Qualité et durée de vie médiocre,2016-06-09
+ 832,198,678,5,Rapport qualité prix satisfaisante,2019-04-11
+ 833,47,601,1.5,Très satisfait de cet achat,2016-07-17
+ 834,62,63,4.5,Excellent Produit,2013-12-15
+ 835,182,35,4,Suivi déplorable,2015-10-01
+ 836,33,500,4.25,Article super,2015-03-14
+ 837,31,508,0.5,Très satisfait de cet achat,2019-03-04
+ 838,90,43,0.5,Qualité et durée de vie médiocre,2019-05-01
+ 839,189,587,1.25,Article super,2020-11-20
+ 840,96,17,4.75,Rapport qualité prix satisfaisante,2019-09-18
+ 841,63,273,1.25,Excellent Produit,2021-01-10
+ 842,65,574,4.25,Excellent Produit,2017-09-05
+ 843,157,33,0.25,Très satisfait de cet achat,2017-06-08
+ 844,182,698,2,Très satisfait de cet achat,2013-05-11
+ 845,68,247,0.75,Suivi déplorable,2016-05-26
+ 846,78,399,2.5,Rapport qualité prix satisfaisante,2018-10-24
+ 847,100,665,5,Rapport qualité prix satisfaisante,2015-06-04
+ 848,40,29,0.25,Suivi déplorable,2020-05-31
+ 849,92,632,0.5,Très satisfait de cet achat,2015-03-23
+ 850,68,242,1.5,Très satisfait de cet achat,2018-03-23
+ 851,119,553,4.75,Très satisfait de cet achat,2020-01-05
+ 852,193,215,4.75,Rapport qualité prix satisfaisante,2014-03-21
+ 853,52,284,0.5,Article super,2019-02-07
+ 854,82,266,5,Suivi déplorable,2020-12-08
+ 855,159,215,1.5,Rapport qualité prix satisfaisante,2018-01-14
+ 856,35,151,2.5,Rapport qualité prix satisfaisante,2019-08-16
+ 857,174,572,1.5,Suivi déplorable,2015-02-17
+ 858,167,605,2.5,Suivi déplorable,2015-12-24
+ 859,104,98,1.25,Très satisfait de cet achat,2018-09-28
+ 860,167,111,2,Suivi déplorable,2015-02-08
+ 861,30,90,1.25,Rapport qualité prix satisfaisante,2013-07-24
+ 862,87,676,1.25,Article super,2015-01-30
+ 863,187,351,1.5,Livraison Exemplaire,2014-10-25
+ 864,85,315,4.5,Rapport qualité prix satisfaisante,2014-01-24
+ 865,80,674,0.25,Rapport qualité prix satisfaisante,2017-01-23
+ 866,99,496,4.75,Suivi déplorable,2018-02-04
+ 867,15,137,5,Rapport qualité prix satisfaisante,2017-10-13
+ 868,43,65,4,Rapport qualité prix satisfaisante,2013-09-16
+ 869,190,1,1.5,Très satisfait de cet achat,2017-08-31
+ 870,52,243,2,Article super,2014-10-07
+ 871,100,390,0.75,Livraison Exemplaire,2019-11-25
+ 872,140,469,0.75,Qualité et durée de vie médiocre,2016-03-21
+ 873,173,172,3.75,Livraison Exemplaire,2020-04-10
+ 874,30,90,5,Article super,2020-02-19
+ 875,52,470,1.25,Qualité et durée de vie médiocre,2019-03-22
+ 876,148,59,0.5,Excellent Produit,2020-02-07
+ 877,174,533,0.25,Suivi déplorable,2017-01-12
+ 878,38,55,1.5,Article super,2019-05-08
+ 879,82,134,1.5,Très satisfait de cet achat,2020-07-27
+ 880,132,546,4,Livraison Exemplaire,2015-12-02
+ 881,110,684,1.25,Article super,2017-08-03
+ 882,93,465,1,Qualité et durée de vie médiocre,2019-03-25
+ 883,190,308,1.25,Très satisfait de cet achat,2013-07-14
+ 884,122,87,4.75,Livraison Exemplaire,2015-02-17
+ 885,23,80,4.25,Excellent Produit,2019-08-14
+ 886,56,482,2.5,Rapport qualité prix satisfaisante,2020-02-20
+ 887,129,693,4.25,Livraison Exemplaire,2014-08-29
+ 888,149,137,1.25,Suivi déplorable,2020-03-15
+ 889,7,255,0.75,Livraison Exemplaire,2013-12-04
+ 890,173,307,0.25,Très satisfait de cet achat,2013-06-19
+ 891,106,399,4.75,Qualité et durée de vie médiocre,2016-06-12
+ 892,41,136,4,Suivi déplorable,2017-01-19
+ 893,188,642,4,Livraison Exemplaire,2016-10-31
+ 894,104,674,2,Livraison Exemplaire,2019-01-10
+ 895,147,448,1.25,Article super,2019-04-28
+ 896,101,140,2,Excellent Produit,2013-11-17
+ 897,93,103,0.75,Livraison Exemplaire,2016-04-18
+ 898,179,42,2.5,Très satisfait de cet achat,2016-11-21
+ 899,14,531,4.75,Très satisfait de cet achat,2017-01-16
+ 900,87,486,4.25,Suivi déplorable,2019-09-21
+901,130,548,1.25,Qualité et durée de vie médiocre,2019-03-23
+ 902,65,178,1.25,Qualité et durée de vie médiocre,2016-11-15
+ 903,129,171,2.5,Article super,2014-10-27
+ 904,126,30,2.5,Très satisfait de cet achat,2019-08-10
+ 905,95,186,2.5,Article super,2019-09-30
+ 906,21,464,2,Rapport qualité prix satisfaisante,2014-03-25
+ 907,176,189,1.5,Article super,2019-07-22
+ 908,128,73,1,Très satisfait de cet achat,2017-10-05
+ 909,9,474,4.5,Article super,2020-04-25
+ 910,77,110,4,Qualité et durée de vie médiocre,2019-09-01
+ 911,51,694,1.25,Excellent Produit,2014-02-01
+ 912,12,502,4.25,Livraison Exemplaire,2017-05-22
+ 913,2,195,4.75,Article super,2020-11-20
+ 914,130,491,0.5,Suivi déplorable,2015-01-29
+ 915,144,76,4.25,Très satisfait de cet achat,2018-02-04
+ 916,4,351,0.75,Article super,2016-02-17
+ 917,21,112,1,Qualité et durée de vie médiocre,2018-01-12
+ 918,10,29,3.75,Excellent Produit,2019-06-08
+ 919,18,489,4,Excellent Produit,2016-03-14
+ 920,108,73,4,Rapport qualité prix satisfaisante,2017-12-05
+ 921,84,629,0.75,Rapport qualité prix satisfaisante,2020-08-02
+ 922,80,309,4.5,Article super,2020-08-27
+ 923,120,212,0.75,Livraison Exemplaire,2014-09-11
+ 924,196,269,1.5,Article super,2016-03-04
+ 925,55,516,1.5,Livraison Exemplaire,2017-10-04
+ 926,84,73,0.25,Très satisfait de cet achat,2015-03-03
+ 927,140,691,0.75,Excellent Produit,2016-02-25
+ 928,147,225,5,Suivi déplorable,2021-01-28
+ 929,10,352,0.5,Article super,2020-03-12
+ 930,167,478,4,Article super,2020-02-25
+ 931,52,52,4,Suivi déplorable,2016-05-08
+ 932,148,537,1.5,Suivi déplorable,2015-06-11
+ 933,176,288,0.25,Article super,2020-02-23
+ 934,139,121,3.75,Rapport qualité prix satisfaisante,2017-08-22
+ 935,22,366,1,Suivi déplorable,2014-12-20
+ 936,89,1,4.25,Qualité et durée de vie médiocre,2020-08-03
+ 937,151,470,0.5,Article super,2018-01-30
+ 938,168,514,0.75,Suivi déplorable,2016-01-28
+ 939,74,286,3.75,Très satisfait de cet achat,2016-05-13
+ 940,29,77,0.25,Excellent Produit,2017-11-13
+ 941,59,179,1,Excellent Produit,2019-06-27
+ 942,122,171,4.75,Excellent Produit,2020-08-15
+ 943,129,161,0.25,Article super,2019-01-27
+ 944,146,384,0.5,Très satisfait de cet achat,2018-11-14
+ 945,180,690,1.5,Excellent Produit,2017-07-14
+ 946,197,175,0.75,Qualité et durée de vie médiocre,2017-06-03
+ 947,167,591,4.5,Très satisfait de cet achat,2013-09-07
+ 948,13,490,4.5,Rapport qualité prix satisfaisante,2016-06-16
+ 949,28,286,1.5,Excellent Produit,2018-01-27
+ 950,51,423,4,Rapport qualité prix satisfaisante,2019-08-15
+ 951,126,498,4.25,Qualité et durée de vie médiocre,2020-04-21
+ 952,135,226,3.75,Qualité et durée de vie médiocre,2019-07-26
+ 953,181,191,0.5,Livraison Exemplaire,2019-05-01
+ 954,39,552,1,Qualité et durée de vie médiocre,2017-10-19
+ 955,110,493,5,Rapport qualité prix satisfaisante,2013-12-29
+ 956,61,14,1.5,Rapport qualité prix satisfaisante,2016-10-16
+ 957,144,647,5,Livraison Exemplaire,2017-05-13
+ 958,33,289,1,Suivi déplorable,2020-03-30
+ 959,172,375,4.5,Qualité et durée de vie médiocre,2018-10-02
+ 960,149,677,3.75,Livraison Exemplaire,2013-07-27
+ 961,60,12,4,Article super,2019-08-31
+ 962,155,549,1.5,Excellent Produit,2015-09-03
+ 963,80,584,5,Qualité et durée de vie médiocre,2018-02-17
+ 964,35,469,4.5,Livraison Exemplaire,2015-10-08
+ 965,42,321,4.75,Excellent Produit,2017-07-16
+ 966,94,555,1.25,Excellent Produit,2017-01-08
+ 967,106,450,4,Livraison Exemplaire,2019-10-02
+ 968,36,584,4.75,Excellent Produit,2014-05-15
+ 969,174,567,0.25,Très satisfait de cet achat,2015-04-23
+ 970,143,583,4.5,Qualité et durée de vie médiocre,2016-09-04
+ 971,60,403,1.5,Suivi déplorable,2020-03-03
+ 972,72,546,4.5,Livraison Exemplaire,2015-12-19
+ 973,24,19,1.5,Rapport qualité prix satisfaisante,2018-01-19
+ 974,131,361,2.5,Suivi déplorable,2016-06-03
+ 975,107,192,1,Qualité et durée de vie médiocre,2015-06-04
+ 976,169,195,3.75,Excellent Produit,2014-02-18
+ 977,154,325,2,Très satisfait de cet achat,2018-08-07
+ 978,171,272,2,Excellent Produit,2013-07-01
+ 979,182,290,5,Qualité et durée de vie médiocre,2017-09-18
+ 980,75,41,2,Suivi déplorable,2018-10-11
+ 981,35,117,0.75,Livraison Exemplaire,2017-09-24
+ 982,4,128,4.75,Livraison Exemplaire,2015-06-04
+ 983,61,589,5,Suivi déplorable,2017-04-22
+ 984,32,314,4.75,Article super,2016-07-23
+ 985,65,323,2,Excellent Produit,2019-02-03
+ 986,35,337,5,Excellent Produit,2014-12-28
+ 987,146,135,1.5,Excellent Produit,2017-03-16
+ 988,96,284,4.75,Excellent Produit,2014-10-05
+ 989,37,548,3.75,Livraison Exemplaire,2014-11-02
+ 990,165,572,4.25,Excellent Produit,2019-08-12
+ 991,23,207,1,Très satisfait de cet achat,2016-04-14
+ 992,59,692,0.5,Très satisfait de cet achat,2017-04-22
+ 993,110,558,4.5,Rapport qualité prix satisfaisante,2020-02-10
+ 994,73,127,1.25,Rapport qualité prix satisfaisante,2015-07-03
+ 995,114,158,4,Qualité et durée de vie médiocre,2017-06-04
+ 996,47,77,4.25,Qualité et durée de vie médiocre,2016-10-18
+ 997,60,356,1.5,Qualité et durée de vie médiocre,2019-03-01
+ 998,101,299,5,Suivi déplorable,2017-10-07
+ 999,59,621,2.5,Article super,2014-01-08
+ 1000,109,514,4.5,Rapport qualité prix satisfaisante,2020-04-28
+1001,165,442,1,Article super,2015-06-22
+ 1002,82,214,2.5,Article super,2018-02-14
+ 1003,115,473,2,Rapport qualité prix satisfaisante,2020-07-07
+ 1004,183,95,5,Qualité et durée de vie médiocre,2020-01-11
+ 1005,103,628,3.75,Livraison Exemplaire,2018-08-24
+ 1006,37,5,1,Très satisfait de cet achat,2018-03-10
+ 1007,2,587,4.5,Excellent Produit,2017-02-17
+ 1008,16,323,0.75,Très satisfait de cet achat,2015-10-24
+ 1009,67,145,4.25,Livraison Exemplaire,2015-11-24
+ 1010,173,43,5,Article super,2018-09-14
+ 1011,150,308,0.25,Livraison Exemplaire,2016-02-13
+ 1012,180,333,5,Rapport qualité prix satisfaisante,2018-06-18
+ 1013,21,617,0.25,Suivi déplorable,2017-09-09
+ 1014,27,598,0.75,Rapport qualité prix satisfaisante,2017-10-23
+ 1015,88,34,0.75,Article super,2015-09-20
+ 1016,152,286,2.5,Suivi déplorable,2016-10-10
+ 1017,62,261,3.75,Rapport qualité prix satisfaisante,2018-04-06
+ 1018,100,543,2.5,Rapport qualité prix satisfaisante,2016-05-11
+ 1019,143,122,4.5,Suivi déplorable,2019-07-13
+ 1020,47,473,0.75,Article super,2017-01-31
+ 1021,168,192,1.25,Rapport qualité prix satisfaisante,2016-05-01
+ 1022,178,676,4.5,Excellent Produit,2017-07-16
+ 1023,134,455,0.25,Qualité et durée de vie médiocre,2018-05-25
+ 1024,86,349,0.25,Très satisfait de cet achat,2014-02-12
+ 1025,95,466,2,Article super,2016-06-09
+ 1026,85,692,4.5,Livraison Exemplaire,2018-03-03
+ 1027,194,240,1.5,Qualité et durée de vie médiocre,2019-02-16
+ 1028,161,469,4,Excellent Produit,2020-08-06
+ 1029,115,328,4,Article super,2017-06-02
+ 1030,6,342,4,Excellent Produit,2015-07-29
+ 1031,92,407,2.5,Suivi déplorable,2016-12-06
+ 1032,165,162,0.75,Très satisfait de cet achat,2018-03-03
+ 1033,200,307,0.75,Article super,2021-03-18
+ 1034,50,510,4.5,Livraison Exemplaire,2019-02-06
+ 1035,135,210,0.25,Article super,2020-04-14
+ 1036,180,700,0.75,Livraison Exemplaire,2014-09-13
+ 1037,139,170,2,Livraison Exemplaire,2015-05-25
+ 1038,120,161,1.25,Rapport qualité prix satisfaisante,2015-06-06
+ 1039,183,430,5,Rapport qualité prix satisfaisante,2018-04-14
+ 1040,67,51,2,Très satisfait de cet achat,2015-12-19
+ 1041,123,361,4.75,Suivi déplorable,2018-02-23
+ 1042,112,661,3.75,Très satisfait de cet achat,2019-08-25
+ 1043,102,479,4.75,Article super,2019-11-17
+ 1044,36,635,0.25,Article super,2016-05-09
+ 1045,104,81,2.5,Qualité et durée de vie médiocre,2014-02-05
+ 1046,68,181,1.25,Article super,2015-12-08
+ 1047,181,369,1.5,Article super,2017-03-30
+ 1048,67,657,1,Suivi déplorable,2019-10-13
+ 1049,196,641,4.75,Qualité et durée de vie médiocre,2018-10-28
+ 1050,90,334,4.75,Qualité et durée de vie médiocre,2018-10-11
+ 1051,88,391,2.5,Livraison Exemplaire,2018-02-04
+ 1052,153,695,1.5,Livraison Exemplaire,2013-09-17
+ 1053,34,190,4.25,Qualité et durée de vie médiocre,2017-01-19
+ 1054,159,84,5,Suivi déplorable,2020-11-10
+ 1055,120,54,4.75,Livraison Exemplaire,2014-09-16
+ 1056,2,434,3.75,Excellent Produit,2019-08-17
+ 1057,196,141,0.75,Article super,2014-02-09
+ 1058,184,214,1,Suivi déplorable,2019-05-01
+ 1059,79,157,2.5,Rapport qualité prix satisfaisante,2013-08-29
+ 1060,55,499,4.25,Livraison Exemplaire,2013-06-27
+ 1061,20,562,5,Excellent Produit,2017-09-29
+ 1062,184,611,4,Livraison Exemplaire,2013-11-17
+ 1063,176,442,0.25,Qualité et durée de vie médiocre,2020-08-23
+ 1064,171,1,5,Excellent Produit,2018-08-31
+ 1065,37,546,1.25,Livraison Exemplaire,2020-02-19
+ 1066,103,556,0.75,Rapport qualité prix satisfaisante,2014-12-26
+ 1067,183,333,1.25,Article super,2015-08-01
+ 1068,189,570,0.5,Excellent Produit,2017-04-27
+ 1069,55,673,4,Livraison Exemplaire,2018-04-14
+ 1070,114,176,1,Très satisfait de cet achat,2019-02-27
+ 1071,193,280,0.75,Livraison Exemplaire,2013-11-05
+ 1072,112,284,0.25,Excellent Produit,2020-03-25
+ 1073,12,658,4,Très satisfait de cet achat,2019-08-08
+ 1074,110,167,4,Excellent Produit,2018-03-04
+ 1075,119,619,4.5,Livraison Exemplaire,2017-03-31
+ 1076,152,692,2.5,Rapport qualité prix satisfaisante,2014-06-16
+ 1077,128,198,5,Livraison Exemplaire,2017-04-06
+ 1078,124,432,3.75,Très satisfait de cet achat,2018-01-20
+ 1079,49,15,0.25,Livraison Exemplaire,2018-07-19
+ 1080,50,606,1.25,Très satisfait de cet achat,2017-02-03
+ 1081,143,176,0.5,Très satisfait de cet achat,2018-12-26
+ 1082,71,580,0.75,Article super,2016-12-14
+ 1083,135,92,4.25,Très satisfait de cet achat,2018-02-06
+ 1084,19,297,4,Excellent Produit,2019-08-28
+ 1085,96,422,0.25,Suivi déplorable,2015-09-20
+ 1086,75,667,2,Excellent Produit,2014-06-12
+ 1087,9,689,3.75,Rapport qualité prix satisfaisante,2020-09-16
+ 1088,123,519,4.75,Qualité et durée de vie médiocre,2016-07-15
+ 1089,95,181,4.25,Suivi déplorable,2021-02-19
+ 1090,104,345,4.75,Suivi déplorable,2018-06-22
+ 1091,51,458,4.25,Suivi déplorable,2016-08-12
+ 1092,94,438,1.5,Rapport qualité prix satisfaisante,2021-01-24
+ 1093,18,528,4.5,Article super,2014-12-13
+ 1094,138,582,1,Qualité et durée de vie médiocre,2020-07-01
+ 1095,14,73,4.5,Excellent Produit,2015-04-12
+ 1096,169,296,1,Qualité et durée de vie médiocre,2015-12-18
+ 1097,7,184,5,Article super,2018-11-19
+ 1098,125,660,3.75,Très satisfait de cet achat,2019-07-21
+ 1099,148,423,0.5,Suivi déplorable,2014-09-04
+ 1100,196,373,4.25,Qualité et durée de vie médiocre,2017-12-27
+ 1101,155,411,0.5,Rapport qualité prix satisfaisante,2020-12-21
+ 1102,147,521,4.25,Excellent Produit,2015-08-06
+ 1103,140,508,0.5,Très satisfait de cet achat,2014-08-21
+ 1104,34,241,1.5,Suivi déplorable,2018-06-09
+ 1105,119,699,4.25,Article super,2017-12-09
+ 1106,126,516,0.5,Article super,2016-07-10
+ 1107,153,277,1,Livraison Exemplaire,2016-03-12
+ 1108,51,41,0.5,Excellent Produit,2018-08-07
+ 1109,15,370,4.5,Livraison Exemplaire,2016-04-30
+ 1110,151,50,1,Excellent Produit,2018-06-23
+ 1111,106,17,4.75,Qualité et durée de vie médiocre,2015-05-15
+ 1112,25,341,4.5,Très satisfait de cet achat,2020-02-17
+ 1113,194,241,3.75,Très satisfait de cet achat,2018-11-26
+ 1114,164,585,5,Article super,2015-04-17
+ 1115,46,259,4,Excellent Produit,2020-07-01
+ 1116,37,232,1.25,Rapport qualité prix satisfaisante,2016-01-01
+ 1117,81,505,2,Article super,2017-11-19
+ 1118,100,483,4.5,Très satisfait de cet achat,2013-07-20
+ 1119,145,53,2,Qualité et durée de vie médiocre,2021-02-24
+ 1120,73,574,4,Suivi déplorable,2015-03-19
+ 1121,148,589,1.25,Suivi déplorable,2013-11-27
+ 1122,101,283,0.25,Article super,2019-06-09
+ 1123,97,243,5,Excellent Produit,2020-08-25
+ 1124,164,351,4.5,Article super,2018-07-24
+ 1125,5,468,1,Article super,2016-05-20
+ 1126,184,395,3.75,Qualité et durée de vie médiocre,2013-08-10
+ 1127,26,57,3.75,Livraison Exemplaire,2017-04-15
+ 1128,12,352,2.5,Excellent Produit,2018-01-05
+ 1129,124,32,4.25,Suivi déplorable,2013-06-29
+ 1130,8,75,4.5,Article super,2020-08-27
+ 1131,49,211,0.5,Très satisfait de cet achat,2015-09-10
+ 1132,199,182,5,Qualité et durée de vie médiocre,2017-05-04
+ 1133,195,614,0.25,Qualité et durée de vie médiocre,2015-05-23
+ 1134,49,228,1.5,Livraison Exemplaire,2019-02-28
+ 1135,191,622,1.5,Qualité et durée de vie médiocre,2014-10-30
+ 1136,38,607,1.5,Suivi déplorable,2014-12-26
+ 1137,164,18,2,Rapport qualité prix satisfaisante,2018-03-18
+ 1138,59,599,3.75,Excellent Produit,2021-01-13
+ 1139,132,183,2,Excellent Produit,2019-09-01
+ 1140,172,315,3.75,Qualité et durée de vie médiocre,2016-08-06
+ 1141,142,230,3.75,Livraison Exemplaire,2017-09-06
+ 1142,148,5,4,Suivi déplorable,2019-09-01
+ 1143,6,170,0.25,Suivi déplorable,2014-07-09
+ 1144,109,258,1.5,Livraison Exemplaire,2017-07-31
+ 1145,171,660,0.75,Excellent Produit,2016-06-13
+ 1146,81,273,0.75,Excellent Produit,2015-05-17
+ 1147,101,532,1.5,Excellent Produit,2019-10-01
+ 1148,25,337,2.5,Très satisfait de cet achat,2020-09-25
+ 1149,56,425,0.5,Article super,2017-08-10
+ 1150,94,671,2,Livraison Exemplaire,2014-10-28
+ 1151,77,164,4,Livraison Exemplaire,2017-03-12
+ 1152,171,179,0.5,Livraison Exemplaire,2019-11-04
+ 1153,66,682,3.75,Qualité et durée de vie médiocre,2020-04-06
+ 1154,48,638,0.75,Article super,2021-01-23
+ 1155,166,550,3.75,Excellent Produit,2015-01-15
+ 1156,163,287,1,Excellent Produit,2017-08-29
+ 1157,77,146,1,Excellent Produit,2015-08-04
+ 1158,145,43,4.75,Livraison Exemplaire,2015-10-11
+ 1159,48,615,1,Rapport qualité prix satisfaisante,2018-08-11
+ 1160,131,335,4.25,Suivi déplorable,2015-08-14
+ 1161,193,582,4,Rapport qualité prix satisfaisante,2019-12-31
+ 1162,141,596,0.25,Rapport qualité prix satisfaisante,2021-03-09
+ 1163,59,592,1.5,Excellent Produit,2021-02-19
+ 1164,19,583,0.25,Excellent Produit,2018-11-30
+ 1165,175,502,0.25,Rapport qualité prix satisfaisante,2021-01-19
+ 1166,152,126,3.75,Excellent Produit,2019-02-23
+ 1167,177,193,1.25,Rapport qualité prix satisfaisante,2016-06-16
+ 1168,167,148,0.25,Rapport qualité prix satisfaisante,2016-07-30
+ 1169,114,394,1,Qualité et durée de vie médiocre,2017-06-10
+ 1170,192,361,2,Article super,2016-02-29
+ 1171,147,421,4.25,Suivi déplorable,2017-02-26
+ 1172,180,61,4.5,Suivi déplorable,2019-04-29
+ 1173,162,570,2.5,Qualité et durée de vie médiocre,2018-06-01
+ 1174,83,555,5,Livraison Exemplaire,2014-05-18
+ 1175,53,522,4.25,Article super,2016-04-14
+ 1176,66,10,1.5,Suivi déplorable,2013-12-24
+ 1177,19,307,4.75,Qualité et durée de vie médiocre,2019-08-25
+ 1178,153,29,1.25,Article super,2014-07-10
+ 1179,122,242,5,Article super,2019-06-09
+ 1180,5,95,0.75,Rapport qualité prix satisfaisante,2017-09-12
+ 1181,30,247,1,Livraison Exemplaire,2019-03-16
+ 1182,133,528,0.75,Suivi déplorable,2016-08-04
+ 1183,144,528,0.75,Suivi déplorable,2020-11-02
+ 1184,181,304,2,Excellent Produit,2016-07-02
+ 1185,161,428,1.25,Livraison Exemplaire,2014-01-31
+ 1186,52,394,5,Rapport qualité prix satisfaisante,2016-03-25
+ 1187,190,507,0.25,Suivi déplorable,2015-02-19
+ 1188,191,424,1.5,Rapport qualité prix satisfaisante,2014-03-22
+ 1189,132,504,2.5,Livraison Exemplaire,2018-09-25
+ 1190,145,257,1.25,Rapport qualité prix satisfaisante,2019-07-09
+ 1191,22,229,2,Excellent Produit,2015-08-31
+ 1192,100,597,4.25,Très satisfait de cet achat,2013-12-07
+ 1193,55,80,2,Suivi déplorable,2016-06-12
+ 1194,76,572,0.75,Livraison Exemplaire,2018-11-01
+ 1195,117,22,2.5,Excellent Produit,2015-10-26
+ 1196,117,39,1.5,Livraison Exemplaire,2015-02-05
+ 1197,67,545,4.75,Livraison Exemplaire,2014-06-28
+ 1198,23,619,2,Article super,2018-03-19
+ 1199,88,228,5,Rapport qualité prix satisfaisante,2016-03-23
+ 1200,190,118,4,Livraison Exemplaire,2015-08-20
+ 1201,143,505,4.75,Article super,2015-06-17
+ 1202,30,628,1.25,Livraison Exemplaire,2015-06-16
+ 1203,130,551,1.5,Suivi déplorable,2019-08-06
+ 1204,162,150,0.75,Article super,2016-01-01
+ 1205,15,204,0.5,Qualité et durée de vie médiocre,2021-03-05
+ 1206,61,394,1,Livraison Exemplaire,2017-06-26
+ 1207,73,686,1.5,Suivi déplorable,2018-06-26
+ 1208,195,460,4,Livraison Exemplaire,2015-09-16
+ 1209,147,284,4.25,Suivi déplorable,2016-08-30
+ 1210,77,386,4.25,Rapport qualité prix satisfaisante,2018-06-18
+ 1211,191,107,1,Excellent Produit,2013-08-08
+ 1212,112,81,2,Rapport qualité prix satisfaisante,2016-08-13
+ 1213,50,689,5,Excellent Produit,2016-11-26
+ 1214,76,122,2.5,Livraison Exemplaire,2017-09-23
+ 1215,198,278,2,Suivi déplorable,2013-05-06
+ 1216,70,123,3.75,Excellent Produit,2016-05-01
+ 1217,77,493,5,Excellent Produit,2017-06-15
+ 1218,100,541,0.5,Article super,2019-01-15
+ 1219,5,242,0.5,Rapport qualité prix satisfaisante,2019-04-28
+ 1220,32,112,2,Très satisfait de cet achat,2014-06-27
+ 1221,21,235,4,Suivi déplorable,2016-03-14
+ 1222,158,202,2.5,Rapport qualité prix satisfaisante,2014-04-26
+ 1223,47,312,2.5,Article super,2018-03-21
+ 1224,88,322,2,Suivi déplorable,2016-08-16
+ 1225,152,218,1.25,Rapport qualité prix satisfaisante,2017-07-30
+ 1226,191,349,3.75,Livraison Exemplaire,2017-07-11
+ 1227,6,229,5,Suivi déplorable,2014-10-17
+ 1228,51,467,0.75,Qualité et durée de vie médiocre,2019-12-06
+ 1229,113,668,4.5,Livraison Exemplaire,2017-03-05
+ 1230,96,128,4.25,Qualité et durée de vie médiocre,2019-07-15
+ 1231,110,5,3.75,Suivi déplorable,2015-07-05
+ 1232,174,567,0.5,Livraison Exemplaire,2015-06-06
+ 1233,90,171,3.75,Suivi déplorable,2015-02-13
+ 1234,181,302,0.5,Livraison Exemplaire,2014-08-22
+ 1235,119,586,0.25,Rapport qualité prix satisfaisante,2013-06-18
+ 1236,26,46,4.25,Excellent Produit,2016-02-16
+ 1237,53,612,1.25,Excellent Produit,2020-08-29
+ 1238,176,447,1,Livraison Exemplaire,2014-03-22
+ 1239,47,152,4,Article super,2021-01-04
+ 1240,118,479,0.25,Suivi déplorable,2013-07-06
+ 1241,126,79,3.75,Excellent Produit,2018-04-13
+ 1242,84,529,0.75,Livraison Exemplaire,2020-12-17
+ 1243,179,354,4.75,Excellent Produit,2018-07-07
+ 1244,86,541,4,Excellent Produit,2019-03-09
+ 1245,52,68,5,Rapport qualité prix satisfaisante,2014-09-06
+ 1246,7,153,2.5,Rapport qualité prix satisfaisante,2013-10-18
+ 1247,124,27,1.5,Rapport qualité prix satisfaisante,2014-09-16
+ 1248,130,294,2.5,Très satisfait de cet achat,2021-02-11
+ 1249,51,327,4.75,Article super,2014-10-23
+ 1250,88,620,5,Rapport qualité prix satisfaisante,2015-11-15
+ 1251,180,658,0.75,Rapport qualité prix satisfaisante,2015-08-17
+ 1252,46,10,5,Rapport qualité prix satisfaisante,2020-12-29
+ 1253,155,86,4.5,Excellent Produit,2020-03-19
+ 1254,46,282,4,Excellent Produit,2019-05-24
+ 1255,116,402,1.5,Qualité et durée de vie médiocre,2020-11-18
+ 1256,77,152,0.5,Excellent Produit,2020-03-20
+ 1257,157,224,3.75,Rapport qualité prix satisfaisante,2014-10-27
+ 1258,15,142,2.5,Excellent Produit,2013-06-12
+ 1259,43,157,0.75,Article super,2013-11-22
+ 1260,86,355,4.5,Qualité et durée de vie médiocre,2014-03-17
+ 1261,114,224,5,Livraison Exemplaire,2013-07-29
+ 1262,200,572,0.75,Qualité et durée de vie médiocre,2019-08-21
+ 1263,21,441,0.75,Excellent Produit,2013-06-16
+ 1264,30,165,4.75,Qualité et durée de vie médiocre,2018-11-14
+ 1265,192,192,4.5,Très satisfait de cet achat,2017-07-25
+ 1266,62,145,3.75,Livraison Exemplaire,2015-11-08
+ 1267,89,29,4.5,Très satisfait de cet achat,2015-10-14
+ 1268,4,557,4.25,Rapport qualité prix satisfaisante,2019-08-19
+ 1269,90,53,1.25,Livraison Exemplaire,2013-10-09
+ 1270,182,656,2.5,Livraison Exemplaire,2013-10-05
+ 1271,56,654,0.5,Livraison Exemplaire,2017-09-19
+ 1272,186,576,3.75,Rapport qualité prix satisfaisante,2016-02-16
+ 1273,12,430,1.25,Suivi déplorable,2017-02-27
+ 1274,103,137,2,Article super,2020-10-03
+ 1275,168,90,5,Livraison Exemplaire,2020-12-16
+ 1276,65,217,4.5,Très satisfait de cet achat,2020-02-18
+ 1277,9,211,0.25,Qualité et durée de vie médiocre,2014-07-28
+ 1278,177,514,4.25,Suivi déplorable,2018-05-30
+ 1279,110,566,5,Livraison Exemplaire,2014-05-05
+ 1280,95,517,4,Qualité et durée de vie médiocre,2018-10-07
+ 1281,80,679,3.75,Suivi déplorable,2019-05-13
+ 1282,26,519,4.5,Suivi déplorable,2015-02-15
+ 1283,31,44,0.25,Excellent Produit,2018-08-15
+ 1284,187,532,1.5,Très satisfait de cet achat,2015-08-27
+ 1285,146,476,1.25,Qualité et durée de vie médiocre,2020-09-23
+ 1286,170,128,4.5,Rapport qualité prix satisfaisante,2021-02-23
+ 1287,151,380,1.25,Excellent Produit,2013-11-22
+ 1288,102,72,1.25,Qualité et durée de vie médiocre,2021-03-03
+ 1289,108,301,2,Rapport qualité prix satisfaisante,2017-06-25
+ 1290,114,232,2,Excellent Produit,2013-12-17
+ 1291,23,556,2,Très satisfait de cet achat,2014-11-07
+ 1292,113,540,1.25,Rapport qualité prix satisfaisante,2021-01-05
+ 1293,22,411,4.25,Suivi déplorable,2018-10-31
+ 1294,85,308,2,Article super,2014-01-25
+ 1295,98,95,1,Très satisfait de cet achat,2015-02-02
+ 1296,107,511,4.5,Très satisfait de cet achat,2018-09-30
+ 1297,86,145,4.5,Suivi déplorable,2019-12-01
+ 1298,46,606,1,Article super,2018-11-01
+ 1299,50,51,2.5,Rapport qualité prix satisfaisante,2018-04-25
+ 1300,51,267,4,Article super,2020-09-04
+1301,184,638,0.75,Suivi déplorable,2013-07-31
+ 1302,167,339,0.25,Rapport qualité prix satisfaisante,2015-05-26
+ 1303,15,397,4,Suivi déplorable,2017-03-15
+ 1304,103,500,0.5,Qualité et durée de vie médiocre,2013-07-04
+ 1305,113,267,1.5,Qualité et durée de vie médiocre,2016-07-18
+ 1306,32,548,4.25,Livraison Exemplaire,2014-04-25
+ 1307,83,54,1.5,Rapport qualité prix satisfaisante,2015-09-05
+ 1308,134,18,4.75,Rapport qualité prix satisfaisante,2020-11-16
+ 1309,105,4,0.75,Excellent Produit,2016-09-27
+ 1310,186,430,1.25,Article super,2020-12-31
+ 1311,160,543,1.25,Qualité et durée de vie médiocre,2019-07-02
+ 1312,113,49,1.5,Rapport qualité prix satisfaisante,2017-03-01
+ 1313,141,504,0.25,Qualité et durée de vie médiocre,2016-04-10
+ 1314,120,601,1,Rapport qualité prix satisfaisante,2021-02-05
+ 1315,162,125,1.5,Suivi déplorable,2021-03-11
+ 1316,70,367,1.5,Rapport qualité prix satisfaisante,2019-11-26
+ 1317,192,197,0.5,Qualité et durée de vie médiocre,2013-05-31
+ 1318,41,673,1,Suivi déplorable,2017-10-13
+ 1319,186,505,0.75,Livraison Exemplaire,2019-10-22
+ 1320,87,481,4,Rapport qualité prix satisfaisante,2019-07-01
+ 1321,70,542,0.5,Très satisfait de cet achat,2019-06-03
+ 1322,187,700,4.5,Suivi déplorable,2016-12-16
+ 1323,198,392,4.75,Suivi déplorable,2016-02-28
+ 1324,170,350,4.25,Rapport qualité prix satisfaisante,2015-06-02
+ 1325,10,445,1.5,Excellent Produit,2014-07-22
+ 1326,190,422,1.25,Excellent Produit,2020-04-27
+ 1327,50,442,4,Rapport qualité prix satisfaisante,2018-12-11
+ 1328,155,450,0.25,Article super,2020-08-17
+ 1329,71,351,1.5,Livraison Exemplaire,2015-08-02
+ 1330,34,175,2,Qualité et durée de vie médiocre,2014-11-12
+ 1331,56,1,0.75,Excellent Produit,2015-07-10
+ 1332,136,48,4.25,Qualité et durée de vie médiocre,2016-03-07
+ 1333,147,55,4.75,Suivi déplorable,2020-05-07
+ 1334,194,694,2.5,Article super,2020-06-07
+ 1335,160,605,4.25,Qualité et durée de vie médiocre,2014-05-23
+ 1336,145,453,4.25,Suivi déplorable,2019-06-07
+ 1337,122,320,4.25,Suivi déplorable,2018-02-12
+ 1338,29,507,5,Qualité et durée de vie médiocre,2019-02-17
+ 1339,133,189,3.75,Très satisfait de cet achat,2013-11-14
+ 1340,160,684,0.75,Rapport qualité prix satisfaisante,2019-08-18
+ 1341,83,222,1.5,Livraison Exemplaire,2018-09-23
+ 1342,69,66,3.75,Très satisfait de cet achat,2015-08-08
+ 1343,101,464,1.5,Qualité et durée de vie médiocre,2019-04-27
+ 1344,149,519,1.5,Très satisfait de cet achat,2015-08-05
+ 1345,59,314,0.25,Qualité et durée de vie médiocre,2021-01-25
+ 1346,36,134,0.25,Rapport qualité prix satisfaisante,2017-08-25
+ 1347,197,546,4.75,Excellent Produit,2013-08-07
+ 1348,143,668,0.5,Suivi déplorable,2013-11-17
+ 1349,46,83,1.5,Suivi déplorable,2017-04-09
+ 1350,31,149,2,Qualité et durée de vie médiocre,2016-07-11
+ 1351,187,131,3.75,Qualité et durée de vie médiocre,2013-12-20
+ 1352,128,233,0.5,Livraison Exemplaire,2016-09-21
+ 1353,159,132,2,Qualité et durée de vie médiocre,2017-08-20
+ 1354,64,550,4.75,Suivi déplorable,2014-12-28
+ 1355,54,676,0.5,Très satisfait de cet achat,2017-07-17
+ 1356,21,173,2,Article super,2018-10-01
+ 1357,124,464,4,Livraison Exemplaire,2020-03-29
+ 1358,21,355,4.25,Suivi déplorable,2016-05-22
+ 1359,57,518,4,Qualité et durée de vie médiocre,2016-10-18
+ 1360,121,635,4,Article super,2018-10-26
+ 1361,50,116,0.5,Excellent Produit,2015-06-28
+ 1362,119,218,1,Excellent Produit,2018-11-06
+ 1363,122,77,0.75,Livraison Exemplaire,2020-02-03
+ 1364,72,207,0.75,Article super,2014-07-17
+ 1365,170,462,0.25,Article super,2016-10-18
+ 1366,169,344,2,Qualité et durée de vie médiocre,2020-05-05
+ 1367,162,221,1,Livraison Exemplaire,2018-04-29
+ 1368,162,578,2,Suivi déplorable,2013-12-03
+ 1369,41,417,1.25,Qualité et durée de vie médiocre,2015-07-22
+ 1370,50,497,0.25,Qualité et durée de vie médiocre,2018-04-03
+ 1371,108,91,1,Livraison Exemplaire,2020-07-04
+ 1372,58,376,0.75,Suivi déplorable,2021-01-05
+ 1373,74,429,3.75,Article super,2014-05-11
+ 1374,32,239,3.75,Qualité et durée de vie médiocre,2014-10-10
+ 1375,60,149,1.25,Article super,2014-03-22
+ 1376,161,134,2,Excellent Produit,2019-08-14
+ 1377,122,473,3.75,Livraison Exemplaire,2015-06-27
+ 1378,8,371,0.25,Suivi déplorable,2016-05-17
+ 1379,119,442,4,Livraison Exemplaire,2018-04-08
+ 1380,21,662,0.25,Suivi déplorable,2019-01-25
+ 1381,142,595,4.5,Livraison Exemplaire,2017-06-11
+ 1382,60,194,0.5,Suivi déplorable,2018-08-18
+ 1383,32,10,0.5,Rapport qualité prix satisfaisante,2021-01-27
+ 1384,58,183,0.25,Article super,2015-05-27
+ 1385,103,78,1.5,Qualité et durée de vie médiocre,2013-11-06
+ 1386,9,286,4.75,Qualité et durée de vie médiocre,2020-11-21
+ 1387,123,97,4.25,Qualité et durée de vie médiocre,2016-04-25
+ 1388,100,520,5,Excellent Produit,2013-09-15
+ 1389,16,558,1,Qualité et durée de vie médiocre,2018-01-06
+ 1390,116,670,2,Excellent Produit,2013-05-05
+ 1391,102,537,3.75,Rapport qualité prix satisfaisante,2013-07-17
+ 1392,166,125,2.5,Article super,2016-12-05
+ 1393,16,353,4.75,Article super,2021-01-22
+ 1394,120,550,2,Excellent Produit,2019-11-24
+ 1395,97,331,2,Livraison Exemplaire,2018-04-01
+ 1396,65,101,4,Excellent Produit,2017-05-21
+ 1397,199,347,0.75,Très satisfait de cet achat,2016-10-04
+ 1398,194,436,4.25,Article super,2015-11-03
+ 1399,3,343,2,Qualité et durée de vie médiocre,2015-06-19
+ 1400,152,417,5,Rapport qualité prix satisfaisante,2014-06-19
+ 1401,84,457,5,Très satisfait de cet achat,2014-03-07
+ 1402,97,99,2.5,Rapport qualité prix satisfaisante,2016-04-03
+ 1403,5,247,0.25,Livraison Exemplaire,2020-12-23
+ 1404,155,10,2.5,Livraison Exemplaire,2020-12-26
+ 1405,77,55,4.75,Rapport qualité prix satisfaisante,2021-03-18
+ 1406,147,42,5,Qualité et durée de vie médiocre,2014-08-21
+ 1407,116,362,1,Très satisfait de cet achat,2021-04-10
+ 1408,95,431,3.75,Excellent Produit,2017-11-27
+ 1409,3,332,3.75,Excellent Produit,2016-03-31
+ 1410,75,77,0.25,Qualité et durée de vie médiocre,2016-10-08
+ 1411,110,258,4.75,Article super,2017-04-12
+ 1412,146,79,2.5,Livraison Exemplaire,2014-08-21
+ 1413,186,190,4.75,Qualité et durée de vie médiocre,2013-10-02
+ 1414,73,589,4.75,Suivi déplorable,2020-03-22
+ 1415,100,142,0.5,Rapport qualité prix satisfaisante,2018-05-08
+ 1416,70,96,1.25,Article super,2019-08-12
+ 1417,20,306,2.5,Qualité et durée de vie médiocre,2014-07-01
+ 1418,24,565,4.5,Article super,2018-10-31
+ 1419,50,639,0.25,Livraison Exemplaire,2018-10-14
+ 1420,166,105,4.5,Suivi déplorable,2014-01-18
+ 1421,51,107,1.25,Article super,2013-10-14
+ 1422,15,218,0.25,Livraison Exemplaire,2016-02-13
+ 1423,194,243,4.75,Très satisfait de cet achat,2016-12-03
+ 1424,160,302,4.75,Excellent Produit,2020-01-29
+ 1425,152,194,1.5,Suivi déplorable,2016-12-15
+ 1426,150,361,4.25,Qualité et durée de vie médiocre,2019-11-23
+ 1427,9,61,0.25,Très satisfait de cet achat,2018-05-30
+ 1428,12,538,2,Article super,2016-12-19
+ 1429,84,599,0.5,Livraison Exemplaire,2017-07-22
+ 1430,130,56,4.5,Suivi déplorable,2020-10-29
+ 1431,95,170,2,Excellent Produit,2014-09-27
+ 1432,170,628,4.5,Article super,2017-09-01
+ 1433,57,431,0.5,Article super,2015-09-21
+ 1434,169,157,1.5,Excellent Produit,2013-08-08
+ 1435,156,675,0.75,Qualité et durée de vie médiocre,2015-08-16
+ 1436,103,267,4.5,Rapport qualité prix satisfaisante,2013-10-14
+ 1437,69,677,0.5,Excellent Produit,2018-12-26
+ 1438,177,601,2.5,Excellent Produit,2019-11-20
+ 1439,10,18,2,Livraison Exemplaire,2019-11-02
+ 1440,62,552,2.5,Excellent Produit,2019-02-13
+ 1441,103,117,0.25,Suivi déplorable,2019-08-22
+ 1442,64,684,0.5,Article super,2013-10-17
+ 1443,154,587,0.75,Rapport qualité prix satisfaisante,2015-09-04
+ 1444,37,89,2,Excellent Produit,2016-07-19
+ 1445,1,466,0.25,Article super,2019-09-11
+ 1446,172,131,4,Rapport qualité prix satisfaisante,2013-12-10
+ 1447,28,378,4.5,Suivi déplorable,2021-01-15
+ 1448,62,680,4,Qualité et durée de vie médiocre,2016-05-03
+ 1449,56,94,3.75,Suivi déplorable,2016-06-04
+ 1450,184,602,4,Suivi déplorable,2017-06-05
+ 1451,139,262,5,Excellent Produit,2019-02-11
+ 1452,40,674,4,Article super,2020-09-30
+ 1453,120,160,1.5,Rapport qualité prix satisfaisante,2014-09-09
+ 1454,125,433,4,Article super,2016-10-18
+ 1455,59,411,4,Article super,2016-08-28
+ 1456,58,374,2.5,Suivi déplorable,2018-11-13
+ 1457,71,647,4.75,Livraison Exemplaire,2018-07-27
+ 1458,200,121,2.5,Très satisfait de cet achat,2020-01-05
+ 1459,89,641,4.75,Qualité et durée de vie médiocre,2020-08-03
+ 1460,162,230,1,Suivi déplorable,2020-12-10
+ 1461,192,251,0.5,Rapport qualité prix satisfaisante,2015-07-14
+ 1462,171,451,1,Suivi déplorable,2017-10-27
+ 1463,172,235,1.5,Excellent Produit,2016-08-26
+ 1464,16,104,5,Article super,2019-11-07
+ 1465,176,628,4,Article super,2017-02-05
+ 1466,73,671,4.25,Article super,2016-09-20
+ 1467,13,142,0.5,Livraison Exemplaire,2014-03-31
+ 1468,163,583,1,Excellent Produit,2019-04-06
+ 1469,51,358,4.25,Qualité et durée de vie médiocre,2014-06-21
+ 1470,127,533,1,Qualité et durée de vie médiocre,2016-12-18
+ 1471,164,92,3.75,Suivi déplorable,2017-10-30
+ 1472,183,214,4.75,Rapport qualité prix satisfaisante,2015-08-26
+ 1473,131,559,0.75,Très satisfait de cet achat,2013-11-22
+ 1474,85,525,2.5,Qualité et durée de vie médiocre,2016-12-22
+ 1475,19,527,1.5,Qualité et durée de vie médiocre,2014-08-26
+ 1476,71,300,3.75,Excellent Produit,2019-09-26
+ 1477,68,292,2,Livraison Exemplaire,2020-08-11
+ 1478,28,415,3.75,Article super,2017-06-19
+ 1479,56,369,3.75,Article super,2015-11-22
+ 1480,49,91,4.25,Livraison Exemplaire,2015-04-29
+ 1481,45,293,3.75,Livraison Exemplaire,2016-10-31
+ 1482,172,339,1.5,Excellent Produit,2017-06-04
+ 1483,38,323,3.75,Livraison Exemplaire,2018-08-12
+ 1484,35,605,0.25,Article super,2017-08-23
+ 1485,112,97,3.75,Excellent Produit,2016-05-26
+ 1486,40,109,5,Qualité et durée de vie médiocre,2019-07-05
+ 1487,145,29,1,Excellent Produit,2020-06-21
+ 1488,129,612,2.5,Qualité et durée de vie médiocre,2014-01-21
+ 1489,21,392,0.75,Qualité et durée de vie médiocre,2014-11-09
+ 1490,19,698,4.25,Excellent Produit,2018-07-16
+ 1491,106,345,1,Qualité et durée de vie médiocre,2015-07-20
+ 1492,167,234,5,Livraison Exemplaire,2017-03-11
+ 1493,146,206,4.75,Rapport qualité prix satisfaisante,2018-02-24
+ 1494,195,295,0.75,Très satisfait de cet achat,2017-09-26
+ 1495,196,463,4.5,Excellent Produit,2019-05-15
+ 1496,80,304,1.5,Livraison Exemplaire,2020-08-15
+ 1497,99,261,1.25,Rapport qualité prix satisfaisante,2016-07-29
+ 1498,63,119,1.5,Très satisfait de cet achat,2020-03-18
+ 1499,86,442,0.25,Rapport qualité prix satisfaisante,2016-03-10
+ 1500,50,454,1.5,Article super,2014-12-03

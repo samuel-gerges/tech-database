@@ -1,0 +1,801 @@
+pid,nom_prod,prix,quantite_disp,,disponibilite,marque,poids,couleur,garantie
+1,PC Portable Asus S515DA-BQ3563T,1836,6,2021-10-13,Bientôt Disponible,asus,3,bleu,false
+ 2,PC Portable Gaming Dell G3,454,51,,Disponible,dell,3,noir,false
+ 3,PC Portable Gaming Dell G5,2376,98,2021-10-22,Non Disponible,dell,1,orange,false
+ 4,PC portable Msi Modern A10M-635FR,813,149,,Disponible,msi,3,orange,false
+ 5,PC Portable Huawei MateBook D15,594,0,,Disponible,huawei,3,bleu,false
+ 6,PC Portable Gaming MSI GE66 Raider,525,13,,Disponible,msi,5,orange,false
+ 7,PC Portable Huawei MateBook D16,855,168,,Disponible,huawei,2,bleu,true
+ 8,Apple MacBook Air,2957,37,,Disponible,apple,3,blanc,true
+ 9,PC Portable Huawei MateBook D19,621,157,2021-06-22,Non Disponible,huawei,4,bleu,true
+ 10,PC Ultra-Portable Lenovo Yoga SLim7 14ARE05,1970,105,,Disponible,lenovo,3,rouge,false
+ 11,PC Portable Toshiba Satellite C55-C-125,1244,200,,Disponible,toshiba,4,rouge,false
+ 12,PC Portable Lenovo IdeaPad 3 15ADA05,757,200,,Disponible,lenovo,2,noir,false
+ 13,PC Portable Huawei MateBook X15,876,0,,Disponible,huawei,4,bleu,false
+ 14,PC Portable Lenovo Legion 5 15ACH6H,479,57,,Disponible,lenovo,5,orange,false
+ 15,PC Ultra-Portable Asus S413JA-EB517T,626,134,,Disponible,asus,1,bleu,true
+ 16,PC Portable Dynabook Toshiba A30-E-15V,2386,169,,Disponible,toshiba,2,or,false
+ 17,PC Portable HP Pavilion 15-eg0067nf,307,84,,Disponible,hp,1,noir,false
+ 18,PC Ultra-Portable HP Spectre,1307,12,,Disponible,hp,3,noir,true
+ 19,PC Portable Huawei XHD77,2423,0,,Disponible,huawei,2,bleu,true
+ 20,Apple MacBook Pro,1801,72,,Disponible,apple,5,rouge,true
+ 21,PC Portable Lenovo IdeaPad 15ADA05,1577,128,,Disponible,lenovo,1,or,true
+ 22,PC Ultra-Portable Acer Aspire 1 A114-32-C0QW,1659,116,,Disponible,acer,4,blanc,false
+ 23,Chromebook Asus C433TA-AJ0035,1042,0,,Disponible,asus,1,blanc,false
+ 24,Apple MacBook Pro,2669,25,,Disponible,apple,1,blanc,false
+ 25,PC Portable Acer Chromebook Spin,1924,29,,Disponible,acer,3,rose,true
+ 26,PC Portable Asus S515DA-BQ34199T,423,21,2021-06-09,Bientôt Disponible,asus,3,orange,true
+ 27,PC Portable Dell Inspiron,1408,35,,Disponible,dell,1,or,false
+ 28,PC Portable Acer Aspire 3 A317-33-P3DV,2912,111,,Disponible,acer,5,or,false
+ 29,PC Gaming HP Omen GT11-0480nf,1981,10,,Disponible,hp,1,orange,true
+ 30,Apple MacBook Air,2669,36,,Disponible,apple,2,orange,true
+ 31,Apple MacBook Pro Touch Bar,1578,194,,Disponible,apple,1,bleu,true
+ 32,PC Gaming MSI MAG Codex,300,86,,Disponible,msi,4,noir,false
+ 33,Apple MacBook Pro Touch Bar,1264,148,,Disponible,apple,4,orange,true
+ 34,PC Portable Dell Inspiron 4404,2095,12,,Disponible,dell,1,noir,true
+ 35,PC Portable Gaming MSI GF75,1877,2,,Disponible,msi,4,rose,true
+ 36,Toshiba PS461E-0N809HFR Ultrabook,2511,68,,Disponible,toshiba,1,orange,true
+ 37,PC Ultra-Portable Lenovo Yoga 7 14ITL5,1640,200,,Disponible,lenovo,2,blanc,true
+ 38,PC Gaming Lenovo Legion T5,1876,157,,Disponible,lenovo,2,blanc,false
+ 39,MSI GE76 10UH 235FR Raider,1102,37,,Disponible,msi,4,rose,false
+ 40,PC HP S01-aF0042nf,1724,11,,Disponible,hp,5,blanc,false
+ 41,PC Portable HP Spectre x360,493,156,2021-06-22,Non Disponible,hp,5,rouge,false
+ 42,PC Portable Gaming Msi GF75,1468,198,,Disponible,msi,4,bleu,false
+ 43,PC Gamer Lenovo Legion T5 28IMB05,2958,134,,Disponible,lenovo,2,or,false
+ 44,PC Portable Acer Chromebook CB315-3H-C61K,1995,156,,Disponible,acer,1,orange,false
+ 45,PC Portable Asus 2S5DA-BQ3156T,2156,0,,Disponible,asus,1,orange,true
+ 46,Portable Toshiba Satellite C70-B-33J,1015,29,,Disponible,toshiba,3,noir,false
+ 47,PC Ultra Portable Lenovo Ideapad,565,161,,Disponible,lenovo,4,or,false
+ 48,PC Ultra Portable Asus S515DA-SHS,2489,143,,Disponible,asus,1,orange,false
+ 49,PC Portable Asus S515DA-LOKI,319,163,,Disponible,asus,2,rouge,false
+ 50,PC Dell Inspiron 3881,2395,0,,Disponible,dell,4,orange,true
+ 51,PC Portable HP 15-gw0015nf,1921,195,,Disponible,hp,5,rose,false
+ 52,PC Portable Gaming Lenovo Legion Pro,1208,167,,Disponible,lenovo,2,or,true
+ 53,Apple MacBook Air,512,137,,Disponible,apple,5,blanc,false
+ 54,PC Portable Dell Inspiron 5502,902,136,,Disponible,dell,1,or,true
+ 55,PC Portable Gaming Acer Nitro,1102,36,,Disponible,acer,4,orange,false
+ 56,Apple MacBook Pro Touch Bar,2135,0,2021-06-22,Non Disponible,apple,4,orange,true
+ 57,PC Portable Gaming Msi Katana GF76,2377,30,,Disponible,msi,5,blanc,true
+ 58,Apple MacBook Air,472,121,,Disponible,apple,3,blanc,true
+ 59,PC Ultra-Portable Lenovo IdeaPad XS,843,132,2021-09-17,Bientôt Disponible,lenovo,5,orange,false
+ 60,MacBook Pro,1572,128,,Disponible,apple,4,rose,false
+ 61,PC Portable Gaming Acer Nitro 5 AN515-55-71VA,1104,32,,Disponible,acer,5,blanc,false
+ 62,PC Ultra-Portable Acer CB314-1HT-C6UF,996,179,,Disponible,acer,2,blanc,true
+ 63,PC Portable Toshiba Satellite C55-C-125,933,189,,Disponible,toshiba,1,or,true
+ 64,PC Portable Asus S515DA-HHYU2,1899,9,,Disponible,asus,3,blanc,false
+ 65,Apple MacBook Pro Touch Bar,2059,118,,Disponible,apple,4,or,false
+ 66,PC Portable Gaming Acer Nitro 5 AN515-55-51QY,1892,124,,Disponible,acer,1,rouge,false
+ 67,PC Huawei AD80HW,835,99,,Disponible,huawei,5,bleu,false
+ 68,MSI GF63 10SCSR 1244FR,1952,3,,Disponible,msi,1,bleu,false
+ 69,PC Gaming Acer Predator Orio,543,8,,Disponible,acer,4,noir,false
+ 70,PC Ultra-Portable Acer Swift 5 SF514-55T-71NL,2194,3,,Disponible,acer,4,bleu,false
+ 71,PC Ultra-Portable Acer Swift 1 SF114-34-P2CV,2555,132,,Disponible,acer,1,rose,true
+ 72,MacBook Pro,2756,0,,Disponible,apple,2,rose,true
+ 73,PC Ultra-Portable HP EliteBook,1143,0,2021-11-02,Non Disponible,hp,4,orange,true
+ 74,PC Ultra Portable Asus S515DA-EK128T,904,50,,Disponible,asus,4,or,true
+ 75,Portable Toshiba Satellite C70-B-33J,462,174,,Disponible,toshiba,1,noir,true
+ 76,PC Portable MSI MODERN A11SB-008FR,1374,60,,Disponible,msi,1,or,false
+ 77,PC Portable Acer Aspire 5,907,85,,Disponible,acer,1,or,false
+ 78,PC HP Omen 25L Desktop GT11-0357nf,2236,109,,Disponible,hp,4,rouge,false
+ 79,PC Portable Asus S515DA-EK129T,1289,0,,Disponible,asus,2,or,false
+ 80,PC Portable Acer Aspire 3 A317-52-56PJ,2054,59,,Disponible,acer,5,or,true
+ 81,PC Portable Dell Inspiron 5502,2629,26,,Disponible,dell,5,noir,true
+ 82,Chromebook Acer CB315-3HT-C293,2247,0,,Disponible,acer,3,blanc,false
+ 83,PC Portable HP 15-dw1023nf,1119,16,,Disponible,hp,2,orange,false
+ 84,PC Portable Asus S5S4,2426,128,,Disponible,asus,1,noir,true
+ 85,PC Gaming Dell SE2417HGX,2366,139,,Disponible,dell,5,or,false
+ 86,PC Portable HP 250 G7 1F3P3EA .,1767,189,,Disponible,hp,1,orange,false
+ 87,PC Ultra-Portable Lenovo V14-IIL,1698,0,2021-09-05,Non Disponible,lenovo,5,noir,true
+ 88,PC Portable Toshiba Satellite C55-C-125,2690,63,,Disponible,toshiba,1,rouge,false
+ 89,PC Portable Acer Aspire 5 A515-44-R612,1309,46,,Disponible,acer,4,noir,false 
+ 90,PC Ultra Portable Asus S515DA-WFPK,1947,161,,Disponible,asus,5,bleu,true
+ 91,PC Portable Asus S515DA-BQ313T,2730,140,,Disponible,asus,1,noir,false
+ 92,PC Portable Gaming Msi GF63,2228,39,,Disponible,msi,5,blanc,true 
+ 93,MSI GS65 9SD 1678FR Stealth,738,0,2021-08-27,Non Disponible,msi,5,rose,true
+ 94,PC Portable Asus E410-BQ313T,2872,137,2021-11-11,Bientôt Disponible,asus,2,rose,false
+ 95,PC Portable Huawei X-13,1514,54,,Disponible,huawei,4,or,true
+ 96,PC Ultra Portable Asus STRIX-BQ313T,1313,21,,Disponible,asus,4,rouge,true
+ 97,PC Portable Asus S515DA-FLOWH67,1664,58,,Disponible,asus,2,noir,false
+ 98,PC Portable Gaming Asus ROG ZEPHYRUS-S17-GX735LWS-74T,1482,197,,Disponible,asus,5,blanc,true
+ 99,PC Ultra-Portable Acer Aspire 5 A514-53,1790,67,,Disponible,acer,1,orange,true
+ 100,PC Gaming MSI Optix G24C4,2496,198,,Disponible,msi,2,blanc,true
+ 101,Casque Bluetooth à réduction de bruit Sony WH-1000XM3,112,82,,Disponible,sony,0.65,argent,false
+ 102,Casque Bluetooth Marshall Major III,22,78,,Disponible,marshall,0.7,rouge,false
+ 103,Casque Bluetooth à réduction de bruit Sony WH-CH710N,86,48,,Disponible,sony,0.7,argent,false
+ 104,Casque sans fil JBL Tune 750BTNC,52,70,,Disponible,jbl,0.15,noir,true
+ 105,Casque Gaming Razer Kraken X,310,78,,Disponible,razer,0.12,blanc,true
+ 106,Casque Bluetooth à réduction de bruit Sony WH-1000XM3,244,7,,Disponible,sony,0.7,blanc,true 
+ 107,Casque Gaming Razer Kraken IX,348,17,2021-06-29,Non Disponible,razer,0.7,blanc,true
+ 108,Casque gaming Razer Blackshark V2,313,5,,Disponible,razer,0.12,rouge,true
+ 109,Casque audio Marshall MID Bluetooth,90,28,,Disponible,marshall,0.49,blanc,true
+ 110,Micro-casque gaming Razer Nari,267,47,,Disponible,razer,0.29,vert,false
+ 111,Casque Sennheiser HD 400S,141,8,,Disponible,sennheiser,0.5,rouge,false 
+ 112,Casque audio Marshall Major II,344,88,,Disponible,marshall,0.15,vert,false
+ 113,Casque audio Marshall Major IV,88,19,,Disponible,marshall,0.29,rouge,true 
+ 114,Casque circum-aural sans fil JBL Tune 700BT,195,0,,Disponible,jbl,0.49,noir,true
+ 115,Micro-casque gaming Razer Kraken Tournament,160,40,,Disponible,razer,0.12,argent,true
+ 116,Casque Sony MDR ZX310,334,74,,Disponible,sony,0.65,vert,false
+ 117,Casque audio Marshall Major IV,118,68,,Disponible,marshall,0.49,argent,false
+ 118,Casque Bluetooth Marshall Major IV,309,38,2021-07-22,Non Disponible,marshall,0.5,noir,false
+ 119,Micro-casque gaming Razer Nari Essential,72,58,,Disponible,razer,0.5,vert,false 
+ 120,Casque arceau JBL Tune,107,0,,Disponible,jbl,0.5,bleu,true
+ 121,Casque audio Hi Fi Sennheiser,323,50,,Disponible,sennheiser,0.35,vert,true
+ 122,Casque sans fil Sony WH-CH510 Noir,145,6,,Disponible,sony,0.29,noir,true
+ 123,Casque Bluetooth à réduction de bruit active Sony WH-XB900N,259,16,,Disponible,sony,0.12,rouge,false
+ 124,Casque sans fil Bluetooth Sennheiser Momentum,225,73,,Disponible,sennheiser,0.5,blanc,false
+ 125,Casque audio Hi Fi Sennheiser,184,15,,Disponible,sennheiser,0.49,blanc,false
+ 126,Casque Sennheiser HD 500,270,1,,Disponible,sennheiser,0.35,blanc,true
+ 127,Casque Bluetooth Marshall Monitor II,186,69,2021-12-01,Bientôt Disponible,marshall,0.7,rouge,false
+ 128,Casque sans fil Bluetooth Sennheiser Momentum,145,0,,Disponible,sennheiser,0.65,vert,true
+ 129,Micro-casque gaming Razer Kraken Tournament,343,73,,Disponible,razer,0.49,argent,false
+ 130,Casque Sennheiser HD 300,303,39,,Disponible,sennheiser,0.35,noir,false 
+ 131,Casque circum-aural sans fil JBL,181,84,2021-11-22,Non Disponible,jbl,0.49,bleu,false
+ 132,Casque supra-auriculaire sans fil JBL Tune,69,34,,Disponible,jbl,0.65,bleu,true
+ 133,Micro-casque gaming Razer Nari Essential,213,0,,Disponible,razer,0.35,argent,false
+ 134,Micro-casque gaming Razer Nari Essential,109,9,,Disponible,razer,0.5,noir,false 
+ 135,Micro-casque gaming Razer Nari Essential,96,73,,Disponible,razer,0.49,rouge,true
+ 136,Casque Marshall Monitor,117,60,,Disponible,marshall,0.5,vert,false
+ 137,Casque Bluetooth Marshall Monitor II,160,24,,Disponible,marshall,0.29,bleu,false 
+ 138,Casque arceau sans fil Sennheiser,211,61,,Disponible,sennheiser,0.49,blanc,false
+ 139,Casque audio Sony Extra Bass Téléphonie MDRXB550AP,322,40,,Disponible,sony,0.5,argent,true
+ 140,Casque audio Marshall Major V,173,46,,Disponible,marshall,0.65,vert,true
+ 141,Casque TV sans fil UHF Sennheiser,106,5,,Disponible,sennheiser,0.65,blanc,true
+ 142,Casque sans fil Sony WH-CH510,221,35,,Disponible,sony,0.29,vert,true
+ 143,Casque Sony WH-CH510 argent,230,42,,Disponible,sony,0.15,argent,false 
+ 144,Casque Gaming PS4 Razer Kraken X,122,0,2021-11-25,Non Disponible,razer,0.65,noir,false
+ 145,Casque audio Sennheiser HD 250BT,31,5,,Disponible,sennheiser,0.12,rouge,true
+ 146,Casque arceau sans fil Sennheiser,316,61,,Disponible,sennheiser,0.7,bleu,true 
+ 147,Casque Marshall Monitor,309,0,,Disponible,marshall,0.35,blanc,false
+ 148,Casque Sony WH-BB8 argent,174,81,,Disponible,sony,0.35,argent,false
+ 149,Micro-casque Gaming Razer Kraken Tournament,190,49,,Disponible,razer,0.7,vert,true
+ 150,Casque TV sans fil UHF Sennheiser,170,64,,Disponible,sennheiser,0.65,vert,true
+ 151,Casque Gaming PS4 Razer Kraken XI,320,76,,Disponible,razer,0.7,noir,false
+ 152,Casque Gaming PS4 Razer Kraken X,204,56,,Disponible,razer,0.49,blanc,false
+ 153,Micro-casque Gaming Razer Kraken Tournament,91,11,,Disponible,razer,0.12,noir,true
+ 154,Casque TV sans fil UHF Sennheiser,35,44,,Disponible,sennheiser,0.35,bleu,false
+ 155,Casque audio Sennheiser HD 250BT,161,83,2021-06-04,Bientôt Disponible,sennheiser,0.35,bleu,true
+ 156,Micro-casque JBL Live 500BT,245,52,,Disponible,jbl,0.49,argent,true
+ 157,Casque à réduction de bruit JBL Live Monitor,294,22,,Disponible,jbl,0.7,argent,true
+ 158,Casque Sony XPX vert,189,0,,Disponible,sony,0.5,vert,false
+ 159,Casque arceau filaire Sennheiser HD 560S,256,5,,Disponible,sennheiser,0.29,rouge,true
+ 160,Casque audio Marshall Major I,232,5,2021-12-02,Non Disponible,marshall,0.5,noir,false
+ 161,Casque TV sans fil UHF Sennheiser,129,0,,Disponible,sennheiser,0.35,bleu,true
+ 162,Casque Gaming sans fil Razer BlackShark V2,309,56,,Disponible,razer,0.65,argent,true
+ 163,Casque audio Marshall Major II,224,58,,Disponible,marshall,0.65,noir,true
+ 164,Casque audio Sennheiser HD 250BT,163,0,2021-09-11,Non Disponible,sennheiser,0.15,vert,true
+ 165,Casque audio Marshall Major III,285,49,,Disponible,marshall,0.35,argent,true
+ 166,Casque audio Marshall Major I,201,77,,Disponible,marshall,0.12,rouge,true
+ 167,Casque audio Marshall Monitor I,41,40,,Disponible,marshall,0.35,blanc,true
+ 168,Casque Bluetooth Marshall Monitor II,218,0,,Disponible,marshall,0.15,bleu,false
+ 169,Casque Gaming sans fil JBL Quantum 100,301,74,,Disponible,jbl,0.29,rouge,true
+ 170,Casque Bluetooth à réduction de bruit Sony WH-FFX,70,53,,Disponible,sony,0.49,blanc,true
+ 171,Casque Gaming sans fil Razer BlackShark V2,341,8,,Disponible,razer,0.35,rouge,false
+ 172,Casque Bluetooth Sony WH-W87H,127,0,,Disponible,sony,0.29,noir,true
+ 173,Casque Marshall Monitor,78,19,,Disponible,marshall,0.7,bleu,true
+ 174,Casque sans fil Bluetooth Sennheiser Momentum,122,52,,Disponible,sennheiser,0.12,rouge,false
+ 175,Casque Gaming sans fil JBL Quantum 600,183,81,,Disponible,jbl,0.49,bleu,true
+ 176,Casque sans fil Sony WH-CH510 bleu,142,53,,Disponible,sony,0.7,bleu,true
+ 177,Casque Marshall Monitor,122,9,,Disponible,marshall,0.7,blanc,true
+ 178,Casque Gaming sans fil JBL Quantum 200,77,0,,Disponible,jbl,0.49,argent,true
+ 179,Casque Sans fil Sony WH39X,96,51,,Disponible,sony,0.7,blanc,true
+ 180,Casque audio Marshall Major VII,201,85,2021-11-28,Non Disponible,marshall,0.15,blanc,true
+ 181,Casque à réduction de bruit JBL Tune,158,0,,Disponible,jbl,0.15,noir,false
+ 182,Micro-casque Gaming Razer Kraken Tournament,328,20,,Disponible,razer,0.7,blanc,true
+ 183,Casque Gaming sans fil Razer BlackShark V2,195,4,,Disponible,razer,0.5,noir,true
+ 184,Casque sans fil Bluetooth Sennheiser Momentum,22,20,,Disponible,sennheiser,0.12,noir,true
+ 185,Casque Bluetooth Marshall Monitor II,158,61,,Disponible,marshall,0.7,bleu,false
+ 186,Casque arceau filaire Sennheiser HD 560S,185,62,,Disponible,sennheiser,0.29,rouge,false
+ 187,Casque à réduction de bruit JBL Live 650BTNC,222,49,,Disponible,jbl,0.12,bleu,true
+ 188,Casque gaming Razer Blackshark FED,135,48,,Disponible,razer,0.15,bleu,false
+ 189,Casque arceau filaire Sennheiser HD 560S,92,68,,Disponible,sennheiser,0.35,argent,false
+ 190,Casque Gaming sans fil Razer BlackShark V2,203,4,,Disponible,razer,0.49,noir,true
+ 191,Casque gaming Razer Blackshark V3,42,0,,Disponible,razer,0.49,bleu,true
+ 192,Casque Marshall Major III vert,285,14,2021-07-10,Non Disponible,marshall,0.5,vert,false
+ 193,Casque Bluetooth Marshall Monitor II rouge,136,75,,Disponible,marshall,0.12,rouge,false
+ 194,Casque supra-auriculaire sans fil JBL Tune,107,69,2021-07-14,Bientôt Disponible,jbl,0.29,blanc,false
+ 195,Casque Bluetooth à réduction de bruit Sony WH-1023M3,133,0,,Disponible,sony,0.49,bleu,true
+ 196,Casque audio Sennheiser HD 250BT,95,22,,Disponible,sennheiser,0.35,rouge,false
+ 197,Casque Sony WH-FAMILY,153,0,,Disponible,sony,0.35,vert,false
+ 198,Casque Sony MDR ZX310 Rouge,183,52,,Disponible,sony,0.35,rouge,false
+ 199,Casque Gaming Razer Kraken V1,328,18,,Disponible,razer,0.15,vert,true 
+ 200,Casque Gaming Razer Kraken X,48,71,,Disponible,razer,0.15,bleu,true
+ 201,Enceinte Marshall Uxbridge,162,10,,Disponible,marshall,0.80,rouge,false
+ 202,Enceinte Sonos One,308,63,,Disponible,sonos,0.7,bleu,false
+ 203,Enceinte bluetooth Bose SoundLink Revolve II,194,9,,Disponible,jamo,1.5,rouge,true
+ 204,Enceinte sans fil Devialet Phantom II noir,210,24,,Disponible,devialet,0.80,noir,true
+ 205,Enceinte Sonos One V2,114,73,2021-08-08,Non Disponible,sonos,1.5,blanc,false
+ 206,Enceinte module Jamo Studio 8 A 8 ATM,311,54,,Disponible,jamo,1,noir,true
+ 207,Enceinte sans fil Devialet Phantom I bleu,208,60,,Disponible,devialet,1.1,bleu,false
+ 208,Enceinte Sonos One,60,38,,Disponible,sonos,0.65,rouge,true
+ 209,Enceinte bluetooth Bose SoundLink Revolve II,56,29,,Disponible,jamo,0.80,rouge,false
+ 210,Enceinte sans fil Devialet Phantom Blood,302,19,,Disponible,devialet,1.1,argent,true
+ 211,Enceinte Marshall Uxbridge,86,24,,Disponible,marshall,0.80,blanc,true
+ 212,Enceinte bibliothèque Jamo Studio 8 S801,332,81,,Disponible,jamo,1.6,noir,true
+ 213,Enceinte Portable Marshall Emberton,326,48,,Disponible,marshall,1,blanc,false 
+ 214,Enceinte module Jamo Studio 8 A 8 ATM,121,43,,Disponible,jamo,0.80,vert,false
+ 215,Enceinte Sonos One,91,16,,Disponible,sonos,0.9,vert,true
+ 216,Enceinte portable JBL Flip,317,41,,Disponible,jbl,1.5,blanc,true
+ 217,Enceinte portable JBL Flip V2,34,84,,Disponible,jbl,0.65,bleu,true
+ 218,Enceinte sans fil Devialet Phantom II,126,90,,Disponible,devialet,1.1,blanc,false
+ 219,Enceinte module Jamo Studio 8 A 8 ATM,112,50,,Disponible,jamo,0.9,blanc,true 
+ 220,Enceinte sans fil Devialet Phantom SP,344,72,2021-10-10,Non Disponible,devialet,0.65,rouge,true
+ 221,Enceinte sans fil Devialet Phantom I vert,68,53,,Disponible,devialet,0.9,vert,false
+ 222,Enceinte sans fil Devialet Phantom II,246,5,,Disponible,devialet,1.6,rouge,true 
+ 223,Enceinte sans fil Devialet Phantom II argent,69,69,,Disponible,devialet,0.9,argent,true
+ 224,Enceinte sans fil Devialet Phantom III,113,27,,Disponible,devialet,1.6,bleu,false
+ 225,Enceinte Marshall Uxbridge,287,34,,Disponible,marshall,1.5,noir,true
+ 226,Enceinte portable JBL Flip,155,50,2021-11-09,Non Disponible,jbl,0.65,bleu,true
+ 227,Enceinte Sonos One,342,46,,Disponible,sonos,0.7,blanc,false
+ 228,Enceinte sans fil Devialet Phantom II noir,82,13,2021-08-21,Bientôt Disponible,devialet,1.1,noir,false
+ 229,Enceinte Sonos One SAMY,166,8,,Disponible,sonos,0.9,noir,false
+ 230,Enceinte bibliothèque Jamo Studio 8 S801,336,8,,Disponible,jamo,1,blanc,true
+ 231,Enceinte Portable Marshall Emberton,63,3,,Disponible,marshall,1,rouge,false
+ 232,Enceinte sans fil Devialet Phantom SP,261,68,,Disponible,devialet,0.65,argent,false
+ 233,Enceinte portable JBL Flip V2,64,3,,Disponible,jbl,1.5,bleu,true
+ 234,Enceinte sans fil Devialet Phantom IIOM,298,24,,Disponible,devialet,0.9,noir,true
+ 235,Enceinte Sonos One SAMX,129,90,,Disponible,sonos,1.5,argent,true
+ 236,Enceinte Sonos One,34,1,,Disponible,sonos,1,argent,true
+ 237,Enceinte sans fil Devialet Phantom I,217,62,,Disponible,devialet,1,bleu,false
+ 238,Enceinte portable JBL Flip,327,52,2021-11-22,Non Disponible,jbl,0.65,bleu,true
+ 239,Enceinte bibliothèque Jamo Studio 8 S801,267,65,,Disponible,jamo,0.65,rouge,true
+ 240,Enceinte Sonos One,143,14,,Disponible,sonos,1.6,rouge,true
+ 241,Enceinte Sonos One SL,113,81,,Disponible,sonos,1.6,bleu,true
+ 242,Enceinte Bluetooth portable JBL Charge Essential,73,1,,Disponible,jbl,1.1,argent,true
+ 243,Enceinte sans fil Devialet Phantom II,178,31,,Disponible,devialet,1.5,bleu,true
+ 244,Enceinte sans fil Devialet Phantom III,265,18,,Disponible,devialet,0.65,noir,true
+ 245,Enceinte portable JBL Flip,244,45,,Disponible,jbl,0.65,bleu,true
+ 246,Enceinte Marshall Uxbridge,29,25,2021-08-25,Non Disponible,marshall,1,rouge,false
+ 247,Enceinte sans fil Devialet Phantom WOW3,143,58,,Disponible,devialet,0.9,rouge,false 
+ 248,Enceinte portable JBL Flip V2,349,53,,Disponible,jbl,1.5,blanc,true
+ 249,Enceinte Jamo Studio S,70,42,,Disponible,jamo,1.1,rouge,true
+ 250,Enceinte Bluetooth portable JBL Charge Essential,344,87,,Disponible,jbl,0.7,noir,true
+ 251,Enceinte portable JBL Flip V3,283,61,,Disponible,jbl,1.5,rouge,false
+ 252,Enceinte sans fil Devialet Phantom II,87,6,,Disponible,devialet,1.5,rouge,true
+ 253,Enceinte Bluetooth Marshall Stanmore II,90,90,,Disponible,marshall,0.7,rouge,true
+ 254,Enceinte Sonos One,130,26,,Disponible,sonos,1.5,argent,false
+ 255,Enceintes actives connectées Jamo S 801 PM,54,74,,Disponible,jamo,1.6,noir,false
+ 256,Enceinte Sonos One SL,136,71,,Disponible,sonos,0.7,blanc,true
+ 257,Enceinte Portable Marshall Emberton,73,28,,Disponible,marshall,0.9,argent,false
+ 258,Enceinte Bluetooth Marshall Stanmore II,256,38,2021-06-05,Bientôt Disponible,marshall,0.65,bleu,true 
+ 259,Enceinte sans fil Devialet Phantom III,23,89,,Disponible,devialet,1.5,noir,false
+ 260,Enceinte Sonos One,123,45,,Disponible,sonos,1.6,argent,false
+ 261,Enceinte bibliothèque Jamo Studio 8 S801,341,3,2021-09-08,Non Disponible,jamo,1.5,noir,true
+ 262,Enceinte Marshall Uxbridge,247,52,2021-09-11,Non Disponible,marshall,0.7,vert,false
+ 263,Enceinte Bluetooth Marshall Stanmore II,254,87,,Disponible,marshall,0.9,vert,false
+ 264,Enceinte Sonos One SL,111,41,,Disponible,sonos,1.6,bleu,true
+ 265,Enceinte sans fil Devialet Phantom III,39,39,,Disponible,devialet,1.5,noir,true
+ 266,Enceinte Bluetooth Marshall Stanmore II,175,55,,Disponible,marshall,1.1,bleu,true
+ 267,Enceinte bibliothèque Jamo Studio 8 S801,221,25,,Disponible,jamo,1,vert,false
+ 268,Enceinte Sonos One SL,327,11,,Disponible,sonos,0.9,bleu,false
+ 269,Enceinte Bluetooth portable JBL Charge Essential,199,67,,Disponible,jbl,0.80,argent,true
+ 270,Mini enceinte portable JBL,249,63,,Disponible,jbl,0.65,bleu,true
+ 271,Enceinte bibliothèque Jamo Studio 8 S801,326,54,,Disponible,jamo,0.80,argent,true
+ 272,Enceinte Portable Marshall Emberton,239,50,,Disponible,marshall,1,blanc,false
+ 273,Enceinte sans fil Devialet Phantom PF2,59,27,,Disponible,devialet,1.6,bleu,true
+ 274,Enceinte Bluetooth Marshall Stanmore II,306,15,,Disponible,marshall,0.9,noir,true
+ 275,Enceinte Sonos One XL,314,65,,Disponible,sonos,1,noir,false
+ 276,Enceinte Sonos One,331,69,,Disponible,sonos,1.1,argent,true
+ 277,Enceinte Sonos One XS,85,8,2021-09-22,Non Disponible,sonos,1.6,argent,true
+ 278,Enceintes actives connectées Jamo S 801 PM,192,56,,Disponible,jamo,1,noir,true
+ 279,Enceinte Sonos One SL,237,37,,Disponible,sonos,0.7,argent,true
+ 280,Enceinte Sonos One,249,72,,Disponible,sonos,1.6,noir,false
+ 281,Enceinte sans fil Devialet Phantom PF1,301,23,,Disponible,devialet,1.5,noir,true
+ 282,Enceinte Bluetooth portable JBL Charge Essential,340,4,,Disponible,jbl,0.9,noir,true
+ 283,Enceinte Portable Marshall Emberton,208,23,,Disponible,marshall,1.5,vert,true
+ 284,Enceinte portable JBL Flip V3,137,75,,Disponible,jbl,0.7,blanc,false
+ 285,Mini enceinte portable JBL,145,31,,Disponible,jbl,1.1,bleu,true
+ 286,Enceinte sans fil Devialet Phantom IS1,50,3,,Disponible,devialet,1.1,rouge,false
+ 287,Enceinte portable JBL Flip V1,117,3,2021-10-04,Non Disponible,jbl,0.9,noir,true
+ 288,Enceinte Sonos One SL,134,11,,Disponible,sonos,0.65,vert,true
+ 289,Enceinte Bluetooth portable JBL Charge Essential,62,59,,Disponible,jbl,1.6,bleu,true
+ 290,Mini enceinte portable JBL,133,17,,Disponible,jbl,1.1,bleu,false
+ 291,Enceinte Sonos One SL,283,56,,Disponible,sonos,0.65,noir,true
+ 292,Enceinte Bluetooth portable JBL Charge Essential,285,22,,Disponible,jbl,1,vert,true
+ 293,Enceinte Bluetooth Marshall Stanmore II,245,81,2021-07-07,Bientôt Disponible,marshall,1.6,bleu,true
+ 294,Enceinte Sonos One SL,220,24,,Disponible,sonos,1.6,bleu,true
+ 295,Enceinte Sonos One,306,11,2021-09-01,Non Disponible,sonos,1.1,vert,false
+ 296,Enceinte Bluetooth Marshall Stanmore II,274,88,,Disponible,marshall,0.7,vert,false
+ 297,Enceinte module Jamo Studio 8 A 8 ATM,28,65,,Disponible,jamo,0.80,argent,false
+ 298,Enceinte Portable Marshall Emberton,175,55,,Disponible,marshall,1.1,bleu,true
+ 299,Enceintes actives connectées Jamo S 801 PM,135,71,,Disponible,jamo,1.5,argent,false
+ 300,Enceinte Sonos One SL,215,7,2021-09-08,Non Disponible,sonos,0.7,rouge,false
+ 301,Tablette tactile Samsung Galaxy Tab,308,14,,Disponible,samsung,0.4,argent,false
+ 302,Ipad Asus TMX,290,34,,Disponible,asus,0.4,vert,false
+ 303,Apple iPad Pro,35,57,,Disponible,apple,0.6,vert,false
+ 304,Ipad Asus Bird blue,284,16,,Disponible,asus,0.7,bleu,true
+ 305,Tablette Huawei MatePad Pro,171,57,2021-12-21,Non Disponible,huawei,0.7,vert,false
+ 306,Ipad Asus Bird,34,34,,Disponible,asus,0.4,noir,false
+ 307,Tablette tactile Huawei MatePad,68,55,,Disponible,huawei,0.6,rouge,true
+ 308,Tablette Huawei MatePad Pro,309,22,,Disponible,huawei,0.5,blanc,false
+ 309,Tablette tactile Huawei MatePad T10s,18,68,,Disponible,huawei,0.4,rouge,false
+ 310,Apple iPad Pro,141,58,,Disponible,apple,0.6,noir,true
+ 311,Tablette tactile Huawei MatePad T10s,342,39,,Disponible,huawei,0.4,noir,true
+ 312,iPad Air,300,25,,Disponible,apple,0.5,argent,false
+ 313,Ipad Asus TM340,309,59,,Disponible,asus,0.6,blanc,true
+ 314,Tablette tactile Huawei MatePad T10s,63,67,,Disponible,huawei,0.6,rouge,true
+ 315,Tablette tactile Samsung Galaxy Tab,167,55,,Disponible,samsung,0.6,noir,false
+ 316,Tablette tactile Huawei MatePad,275,5,,Disponible,huawei,0.6,noir,true
+ 317,Tablette Huawei MatePad Pro,312,5,2021-07-30,Non Disponible,huawei,0.7,bleu,true
+ 318,iPad Air,284,89,,Disponible,apple,0.4,vert,true
+ 319,Tablette tactile Samsung Tab S6,286,26,,Disponible,samsung,0.5,rouge,false
+ 320,Ipad Asus Bird V2,181,61,,Disponible,asus,0.6,vert,false
+ 321,Tablette tactile Samsung Galaxy Tab,95,80,2021-10-30,Bientôt Disponible,samsung,0.6,argent,false
+ 322,Apple iPad Pro Air,336,85,,Disponible,apple,0.7,vert,false
+ 323,Apple iPad Pro,293,56,,Disponible,apple,0.7,bleu,true
+ 324,Apple ipad Pro Air 2,95,7,,Disponible,apple,0.7,blanc,false
+ 325,iPad Air,254,84,,Disponible,apple,0.5,rouge,false
+ 326,Apple iPad Pro,167,1,,Disponible,apple,0.5,bleu,false
+ 327,Ipad Asus TM340,273,41,2021-11-28,Non Disponible,asus,0.5,vert,false
+ 328,Ipad Asus ASX,78,70,,Disponible,asus,0.7,vert,false
+ 329,Apple iPad Pro Air,90,11,,Disponible,apple,0.6,blanc,true
+ 330,Tablette Huawei MatePad Pro,198,1,,Disponible,huawei,0.5,bleu,false
+ 331,Apple iPad Pro,280,10,2021-07-03,Non Disponible,apple,0.4,noir,false
+ 332,iPad Air,225,67,,Disponible,apple,0.5,vert,true
+ 333,Tablette tactile Huawei MatePad,338,54,,Disponible,huawei,0.6,vert,false
+ 334,iPad Air,40,46,,Disponible,apple,0.7,blanc,true
+ 335,Ipad Asus Bird V2,253,63,,Disponible,asus,0.7,bleu,true
+ 336,Ipad Asus TM340,116,89,,Disponible,asus,0.4,blanc,true
+ 337,Tablette tactile Huawei MatePad T10s,177,43,,Disponible,huawei,0.7,argent,true
+ 338,Tablette Huawei MatePad Pro,44,3,,Disponible,huawei,0.6,blanc,true
+ 339,Tablette tactile Huawei MatePad,174,14,,Disponible,huawei,0.5,blanc,true
+ 340,Apple iPad Pro,48,21,,Disponible,apple,0.4,blanc,true
+ 341,Tablette tactile Huawei MatePad T10s,111,33,,Disponible,huawei,0.7,argent,true
+ 342,iPad Air,120,24,,Disponible,apple,0.7,vert,false
+ 343,Ipad Asus TM340,251,39,,Disponible,asus,0.5,bleu,true
+ 344,Ipad Asus Bird argent,326,8,2021-11-07,Bientôt Disponible,asus,0.5,argent,false
+ 345,Tablette tactile Samsung Tab S6,222,25,,Disponible,samsung,0.4,argent,false
+ 346,Ipad Asus TM340,265,25,2021-06-14,Non Disponible,asus,0.6,vert,false
+ 347,Tablette tactile Samsung Galaxy Tab,343,47,,Disponible,samsung,0.6,blanc,true
+ 348,Tablette tactile Huawei MatePad,345,47,,Disponible,huawei,0.4,noir,false
+ 349,iPad Air,247,68,,Disponible,apple,0.4,argent,false
+ 350,Ipad Asus TM340,237,15,,Disponible,asus,0.6,bleu,false
+ 351,Tablette tactile Samsung Tab S6,221,69,,Disponible,samsung,0.7,argent,false
+ 352,Ipad Asus TM340,347,30,2021-06-14,Non Disponible,asus,0.7,rouge,false
+ 353,Tablette tactile Samsung Galaxy Tab,29,86,,Disponible,samsung,0.5,blanc,true
+ 354,Apple iPad Pro,298,48,,Disponible,apple,0.7,vert,true
+ 355,Ipad Asus Bird rouge,162,20,,Disponible,asus,0.7,rouge,false
+ 356,Tablette Huawei MatePad Pro,114,85,2021-06-11,Non Disponible,huawei,0.6,noir,false
+ 357,Ipad Asus Bird vert,116,53,,Disponible,asus,0.7,vert,false
+ 358,Ipad Asus TM340,50,19,,Disponible,asus,0.5,bleu,false
+ 359,Tablette tactile Huawei MatePad T10s,320,90,2021-08-29,Bientôt Disponible,huawei,0.4,vert,false
+ 360,iPad Air,54,7,,Disponible,apple,0.6,blanc,false
+ 361,Ipad Asus TM340,84,12,,Disponible,asus,0.6,rouge,false
+ 362,Ipad Asus ASX3,76,15,,Disponible,asus,0.6,noir,true
+ 363,Apple ipad Pro New,302,83,,Disponible,apple,0.6,blanc,false
+ 364,Tablette tactile Samsung Tab S6,42,0,2021-06-15,Non Disponible,samsung,0.5,vert,true
+ 365,Apple iPad Pro,50,45,,Disponible,apple,0.6,vert,true
+ 366,Tablette tactile Samsung Galaxy Tab argent,93,76,,Disponible,samsung,0.6,argent,false
+ 367,Tablette tactile Samsung Galaxy Tab noir,128,35,,Disponible,samsung,0.4,noir,true
+ 368,Apple iPad Air,162,80,,Disponible,apple,0.6,blanc,true
+ 369,Ipad Asus TM340,305,89,,Disponible,asus,0.7,blanc,true
+ 370,Ipad Asus LoopHouse,252,29,,Disponible,asus,0.7,vert,false
+ 371,Ipad Asus LoopHouse V2,68,37,,Disponible,asus,0.6,argent,true
+ 372,Tablette tactile Samsung Tab S6,321,18,2021-06-13,Non Disponible,samsung,0.7,vert,true
+ 373,Tablette Huawei MatePad Pro,54,61,,Disponible,huawei,0.7,bleu,true
+ 374,Tablette tactile Huawei MatePad,136,5,2021-06-25,Non Disponible,huawei,0.6,noir,true
+ 375,iPad Air,249,8,,Disponible,apple,0.5,bleu,false
+ 376,Tablette tactile Huawei MatePad T10s,100,66,,Disponible,huawei,0.4,vert,true
+ 377,Ipad Asus TM340,314,5,,Disponible,asus,0.5,vert,true
+ 378,Ipad Asus TM340,163,0,,Disponible,asus,0.5,bleu,false
+ 379,Tablette tactile Samsung Galaxy Tab,310,71,,Disponible,samsung,0.7,argent,false
+ 380,Apple iPad Pro,248,71,,Disponible,apple,0.6,blanc,true
+ 381,Tablette tactile Huawei MatePad,94,9,,Disponible,huawei,0.4,bleu,false
+ 382,Ipad Asus TM340,177,54,,Disponible,asus,0.7,noir,false
+ 383,Tablette Huawei MatePad Pro,250,86,,Disponible,huawei,0.5,argent,false
+ 384,iPad Air,203,2,,Disponible,apple,0.7,argent,false
+ 385,Tablette tactile Huawei MatePad,22,61,,Disponible,huawei,0.5,blanc,false 
+ 386,Tablette tactile Samsung Tab S6,112,86,2021-07-17,Non Disponible,samsung,0.6,argent,false
+ 387,Tablette tactile Samsung Galaxy Tab A7,52,76,2021-06-03,Non Disponible,samsung,0.4,argent,true
+ 388,Ipad Asus Bird V2,197,43,,Disponible,asus,0.4,rouge,true
+ 389,iPad Air,289,32,,Disponible,apple,0.6,rouge,true
+ 390,Apple iPad Pro,171,5,,Disponible,apple,0.7,argent,true
+ 391,Tablette tactile Huawei MatePad,333,12,,Disponible,huawei,0.4,argent,true 
+ 392,Tablette tactile Samsung Tab S6,169,48,,Disponible,samsung,0.7,vert,false
+ 393,Tablette tactile Samsung Galaxy Tab,88,1,,Disponible,samsung,0.6,blanc,false
+ 394,iPad Air,308,81,,Disponible,apple,0.7,vert,true
+ 395,Tablette Huawei MatePad Pro,111,23,,Disponible,huawei,0.7,rouge,false
+ 396,Tablette tactile Samsung Tab S6,54,49,,Disponible,samsung,0.7,bleu,false
+ 397,Ipad Asus TM340,256,21,,Disponible,asus,0.7,noir,false
+ 398,iPad Air,277,16,,Disponible,apple,0.7,blanc,true
+ 399,Tablette tactile Huawei MatePad T10s,333,7,,Disponible,huawei,0.5,blanc,false
+ 400,Tablette tactile Huawei MatePad,32,31,2021-11-22,Non Disponible,huawei,0.5,argent,false
+ 401,Appareil photo Instantané Fujifilm Instax Mini,67,78,,Disponible,fujifilm,0.78,argent,true
+ 402,Bridge Numérique Sony DSC-HX400V,181,75,2021-06-06,Non Disponible,sony,0.78,noir,false
+ 403,Hybride Fujifilm X-T30,83,27,,Disponible,fujifilm,1.05,bleu,true
+ 404,Appareil photo hybride Olympus OM-D V2,247,30,2021-11-30,Non Disponible,olympus,0.95,vert,false
+ 405,Appareil photo hybride Olympus OM-D,245,86,2021-09-22,Non Disponible,olympus,0.78,vert,true
+ 406,Compact Olympus Tough TG-6 ,94,7,2021-08-13,Non Disponible,olympus,0.65,bleu,false
+ 407,Appareil photo Instantané Fujifilm Instax Mini,195,16,,Disponible,fujifilm,0.78,vert,true
+ 408,Appareil photo hybride Olympus OM-D,90,26,2021-07-23,Non Disponible,olympus,0.78,bleu,false
+ 409,Hybride Fujifilm X-T30,37,51,,Disponible,fujifilm,1.05,blanc,true
+ 410,Appareil Photo Reflex Canon EOS,67,33,2021-06-30,Non Disponible,canon,1,blanc,true 
+ 411,Bridge numérique Panasonic Lumix DMC-FZ2000,43,49,,Disponible,panasonic,1,vert,true
+ 412,Compact expert Panasonic Lumix DMC-LX15,245,30,2021-12-24,Non Disponible,panasonic,0.78,noir,true
+ 413,Hybride Fujifilm X-T30,290,73,,Disponible,fujifilm,0.65,rouge,true
+ 414,Appareil photo hybride Olympus OM-D,298,77,2021-12-01,Non Disponible,olympus,1.05,blanc,false
+ 415,Appareil photo compact CANON SX720 ,101,52,,Disponible,canon,1,blanc,true
+ 416,Hybride Fujifilm X-T30,266,11,,Disponible,fujifilm,0.78,rouge,true 
+ 417,Compact Canon Ixus,347,32,,Disponible,canon,1.05,bleu,true
+ 418,Bridge Numérique Sony DSC-HX400V,313,13,,Disponible,sony,0.78,bleu,false
+ 419,Appareil photo hybride Olympus OM-D E-M5,108,35,,Disponible,olympus,0.95,blanc,true 
+ 420,Compact Panasonic DC-TZ200,213,80,,Disponible,panasonic,0.78,bleu,false 
+ 421,Appareil Photo Reflex Canon EOS,269,84,,Disponible,canon,1,bleu,false
+ 422,Compact Canon Ixus,159,5,,Disponible,canon,1.05,bleu,true 
+ 423,Hybride Sony Alpha A6000,277,11,2021-08-27,Non Disponible,sony,1,argent,true
+ 424,Bridge Numérique Sony DSC-HX400V,46,28,,Disponible,sony,0.78,blanc,false
+ 425,Hybride Fujifilm X-T30,30,14,,Disponible,fujifilm,0.95,bleu,false 
+ 426,Compact Canon Ixus,207,33,,Disponible,canon,0.78,bleu,false
+ 427,Hybride Sony Alpha A6000,185,19,,Disponible,sony,1.05,blanc,false
+ 428,Bridge Numérique Sony DSC-HX400V,325,70,2021-08-22,Non Disponible,sony,1,argent,false
+ 429,Appareil photo Instantané Fujifilm Instax Mini,321,67,,Disponible,fujifilm,0.78,blanc,false
+ 430,Hybride Fujifilm X-T30,150,19,2021-07-30,Bientôt Disponible,fujifilm,0.78,bleu,true
+ 431,Appareil Photo Instantané Fujifilm Instax,236,83,,Disponible,fujifilm,0.95,blanc,true
+ 432,Appareil photo hybride Olympus OM-D,329,68,,Disponible,olympus,0.65,blanc,true
+ 433,Hybride Fujifilm X-T30,100,83,,Disponible,fujifilm,0.95,argent,false
+ 434,Bridge Numérique Sony DSC-HX400V,168,31,,Disponible,sony,0.65,noir,true
+ 435,Appareil Photo Reflex Canon EOS,201,67,2021-09-11,Non Disponible,canon,1,blanc,true
+ 436,Hybride Sony Alpha A6000,16,80,,Disponible,sony,1.05,vert,false
+ 437,Compact expert Panasonic Lumix DMC-LX15,246,72,,Disponible,panasonic,0.78,rouge,true
+ 438,Compact Panasonic DC-TZ200,162,12,,Disponible,panasonic,1,rouge,true
+ 439,Bridge numérique Panasonic Lumix DMC-FZ2000,69,46,,Disponible,panasonic,1.05,vert,true
+ 440,Appareil photo Instantané Fujifilm Instax Mini,50,86,,Disponible,fujifilm,0.65,vert,true 
+ 441,Appareil Photo Instantané Fujifilm Instax,155,30,,Disponible,fujifilm,0.78,rouge,false
+ 442,Bridge Numérique Sony DSC-HX400V,170,62,,Disponible,sony,1,blanc,false
+ 443,Appareil photo Instantané Fujifilm Instax Mini,239,10,,Disponible,fujifilm,0.78,vert,true
+ 444,Compact expert Panasonic Lumix DMC-LX15,27,24,,Disponible,panasonic,1,bleu,true
+ 445,Appareil photo Hybride Olympus E-M10 ,27,80,,Disponible,olympus,0.78,vert,true
+ 446,Appareil Photo Instantané Fujifilm Instax,267,69,,Disponible,fujifilm,0.95,noir,true
+ 447,Appareil photo compact CANON SX720 ,270,56,,Disponible,canon,1.05,bleu,false
+ 448,Compact Olympus Tough TG-6 ,201,12,,Disponible,olympus,0.78,bleu,true
+ 449,Bridge numérique Panasonic Lumix DMC-FZ2000,64,51,,Disponible,panasonic,1.05,rouge,true
+ 450,Bridge numérique Canon PowerShot,127,45,,Disponible,canon,0.65,argent,true
+ 451,Appareil Photo Reflex Canon EOS,112,16,,Disponible,canon,0.95,vert,true
+ 452,Appareil Photo Instantané Fujifilm Instax,334,89,,Disponible,fujifilm,1.05,bleu,true
+ 453,Appareil photo Instantané Fujifilm Instax Mini,146,19,,Disponible,fujifilm,0.95,rouge,true
+ 454,Hybride Sony Alpha A6000,201,41,,Disponible,sony,0.95,argent,true
+ 455,Compact Panasonic DC-TZ200,156,71,,Disponible,panasonic,0.95,argent,true
+ 456,Bridge Numérique Sony DSC-HX400V,159,70,,Disponible,sony,1.05,rouge,true
+ 457,Bridge numérique Canon PowerShot,239,78,,Disponible,canon,0.65,vert,false
+ 458,Appareil Photo Instantané Fujifilm Instax,168,41,,Disponible,fujifilm,0.95,bleu,false
+ 459,Appareil Photo Reflex Canon EOS,234,74,,Disponible,canon,1,rouge,false
+ 460,Appareil Photo Reflex Canon EOS 2000D,348,12,,Disponible,canon,0.95,rouge,true
+ 461,Hybride Sony Alpha A6000,91,56,,Disponible,sony,0.95,argent,true
+ 462,Appareil photo Hybride Olympus E-M10 ,212,83,,Disponible,olympus,1,bleu,false
+ 463,Compact Olympus Tough TG-6 ,176,81,2021-10-03,Bientôt Disponible,olympus,0.65,argent,true
+ 464,Appareil photo hybride Olympus OM-D E-M5,190,28,,Disponible,olympus,0.95,blanc,true
+ 465,Appareil photo Hybride Olympus E-M10 ,78,33,,Disponible,olympus,1,blanc,true
+ 466,Appareil photo compact Sony Cyber-shot DSC-HX60,57,24,,Disponible,sony,1,argent,false
+ 467,Appareil photo Instantané Fujifilm Instax Mini,40,86,,Disponible,fujifilm,0.95,vert,true
+ 468,Compact expert Panasonic Lumix DMC-LX15,277,66,,Disponible,panasonic,0.95,rouge,false
+ 469,Hybride Sony Alpha A6000,293,36,,Disponible,sony,0.65,rouge,false
+ 470,Appareil photo Hybride Olympus E-M10 Mark III,332,27,,Disponible,olympus,0.78,bleu,false
+ 471,Appareil photo compact Sony Cyber-shot DSC-HX60,285,23,,Disponible,sony,1,blanc,false
+ 472,Appareil Photo Reflex Canon EOS 2000D,128,90,,Disponible,canon,0.95,vert,true
+ 473,Appareil photo Hybride Olympus E-M10 Mark IV ,253,21,,Disponible,olympus,1.05,vert,false
+ 474,Bridge Numérique Sony DSC-HX400V,142,29,,Disponible,sony,0.65,vert,true
+ 475,Appareil photo hybride Olympus OM-D E-M5,199,53,,Disponible,olympus,1.05,noir,false
+ 476,Compact Panasonic DC-TZ200,32,83,,Disponible,panasonic,0.65,rouge,true
+ 477,Hybride Sony Alpha A6000,252,30,,Disponible,sony,0.65,vert,false
+ 478,Hybride Sony Alpha A6000 V2,253,9,,Disponible,sony,0.95,argent,true
+ 479,Reflex Canon EOS 2000D,28,52,,Disponible,canon,1,rouge,true
+ 480,Appareil Photo Reflex Canon EOS,320,7,,Disponible,canon,1,noir,false
+ 481,Appareil photo Hybride Olympus E-M10 ,186,9,,Disponible,olympus,1.05,blanc,false
+ 482,Appareil photo Instantané Fujifilm Instax Mini,348,23,,Disponible,fujifilm,1,blanc,false
+ 483,Appareil Photo Instantané Fujifilm Instax,92,78,,Disponible,fujifilm,1,rouge,true
+ 484,Appareil photo Hybride Olympus E-M10 Mark IV,25,4,,Disponible,olympus,1.05,bleu,true
+ 485,Compact Olympus Tough TG-6 ,313,13,,Disponible,olympus,1.05,rouge,true
+ 486,Reflex Canon EOS 2000D,105,25,,Disponible,canon,0.78,vert,false
+ 487,Appareil photo Instantané Fujifilm Instax Mini,55,32,,Disponible,fujifilm,0.65,rouge,false
+ 488,Hybride Sony Alpha A6000,99,55,,Disponible,sony,1,bleu,true
+ 489,Compact Olympus Tough TG-6 ,167,25,,Disponible,olympus,0.65,rouge,true
+ 490,Appareil photo Hybride Olympus E-M10 ,203,26,,Disponible,olympus,0.78,bleu,true
+ 491,Appareil photo compact Sony Cyber-shot DSC-HX60,57,83,,Disponible,sony,0.78,argent,false
+ 492,Appareil Photo Instantané Fujifilm Instax,313,71,,Disponible,fujifilm,0.65,argent,true
+ 493,Compact Panasonic DC-TZ200,290,3,,Disponible,panasonic,0.78,argent,false
+ 494,Bridge numérique Panasonic Lumix DMC-FZ2000,319,76,,Disponible,panasonic,1.05,vert,true
+ 495,Appareil Photo Instantané Fujifilm Instax,189,37,,Disponible,fujifilm,1.05,argent,true
+ 496,Compact expert Panasonic Lumix DMC-LX15,277,36,,Disponible,panasonic,0.95,rouge,false
+ 497,Appareil photo Instantané Fujifilm Instax Mini,302,13,,Disponible,fujifilm,0.95,vert,true
+ 498,Bridge numérique Panasonic Lumix DMC-FZ2000,200,24,,Disponible,panasonic,0.95,bleu,true
+ 499,Compact Panasonic DC-TZ200,80,84,2021-11-09,Non Disponible,panasonic,0.65,argent,true
+ 500,Appareil photo compact Sony Cyber-shot DSC-HX60,51,59,,Disponible,sony,0.65,argent,true
+ 501,TV Samsung The Frame QE55LS03T,1191,105,,Disponible,samsung,7,blanc,false
+ 502,TV LG OLED88ZX,579,55,,Disponible,lg,5,noir,true
+ 503,TV Sony 65X7056 LED,1393,45,,Disponible,sony,10,blanc,false
+ 504,TV Hisense 70A7100F,1285,104,,Disponible,hilsense,8,blanc,true
+ 505,TV Samsung UE43TU7125,1272,148,,Disponible,samsung,6,blanc,false
+ 506,TV Philips Android 43PUS9235,1531,11,,Disponible,philips,11,blanc,false
+ 507,TV Philips 65OLED855,1318,113,,Disponible,philips,5,blanc,true
+ 508,TV Hisense 43AE7200F,599,65,,Disponible,hilsense,10,argent,true
+ 509,TV Philips 5500 Séries 24PFS5535,962,138,,Disponible,philips,10,noir,true
+ 510,TV Panasonic TX-58EX700E ,1543,35,,Disponible,panasonic,9,noir,true
+ 511,TV Samsung 65Q60T ,692,25,,Disponible,samsung,8,argent,true
+ 512,TV LG 65NANO79,1263,65,,Disponible,lg,11,blanc,true
+ 513,TV Sony KD49X7056BAEP,997,62,2021-06-04,Bientôt Disponible,sony,7,argent,false
+ 514,TV Philips 65OLED855 OLED,620,78,,Disponible,philips,10,argent,false
+ 515,TV LG OLED65BX6LA,980,56,,Disponible,lg,10,argent,false
+ 516,TV Sony KD49XH8505BAEP,1263,105,,Disponible,sony,6,noir,false
+ 517,TV Samsung Crystal,1455,58,,Disponible,samsung,11,noir,false
+ 518,TV Hisense 55U7QF,1335,23,,Disponible,hilsense,7,noir,false
+ 519,TV Panasonic TX-55GZ2000E,1035,5,,Disponible,panasonic,6,blanc,false
+ 520,TV Philips 43PFS5505,571,56,,Disponible,philips,10,noir,false
+ 521,TV Philips 43PFS5505,1276,116,,Disponible,philips,5,argent,false
+ 522,TV Panasonic TX-55GZ2000E,1410,15,,Disponible,panasonic,9,noir,true
+ 523,TV Samsung 75TU7025,1271,6,,Disponible,samsung,7,noir,false
+ 524,TV LG 43UN7100,1544,92,,Disponible,lg,9,noir,true
+ 525,TV LG 43NANO796NE,1434,87,,Disponible,lg,10,blanc,true
+ 526,TV Samsung 55AU7105,942,106,,Disponible,samsung,7,noir,false
+ 527,TV LED Hisense 50U7QF,753,75,,Disponible,hilsense,9,noir,true
+ 528,TV Samsung QE85Q950TS,1462,149,,Disponible,samsung,11,noir,true
+ 529,TV intelligente Hisense HE32A5800,1348,86,,Disponible,hilsense,8,blanc,true
+ 530,TV LED PHILIPS 32PFS5603,1592,106,,Disponible,philips,8,blanc,true
+ 531,TV Sony KD43XH8077SAEP,1092,44,,Disponible,sony,11,argent,false
+ 532,TV Sony KD43XH8077SAEP,619,85,,Disponible,sony,9,noir,true
+ 533,TV LG 43NANO796NE,746,58,,Disponible,lg,9,argent,false
+ 534,TV Philips 50PUS7505,948,50,,Disponible,philips,8,noir,false
+ 535,TV Philips 50PUS7505,728,112,,Disponible,philips,11,blanc,true
+ 536,TV Samsung 55 QLED QE55Q68A,963,118,,Disponible,samsung,8,noir,false
+ 537,TV Hisense 55U8QF,1475,21,,Disponible,hilsense,6,noir,false
+ 538,TV LED Hisense 50AE7200F,1222,130,,Disponible,hilsense,11,blanc,false
+ 539,TV Philips 32PHS6605,519,106,,Disponible,philips,7,blanc,true
+ 540,TV LG 24TL510V-PZ,1162,93,2021-10-23,Bientôt Disponible,lg,6,noir,true
+ 541,TV LG 43UN7100,895,87,,Disponible,lg,9,argent,false
+ 542,TV Philips 55OLED855,1526,1,,Disponible,philips,5,noir,true
+ 543,TV Panasonic TX-65HZ980E,1211,91,,Disponible,panasonic,5,blanc,true
+ 544,TV Sony Bravia KD55AG9BAEP,674,83,,Disponible,sony,10,blanc,false
+ 545,TV LG 24TL510V-PZ,1418,110,,Disponible,lg,5,blanc,true 
+ 546,TV Sony Bravia KD65AG9BAEP,530,50,,Disponible,sony,8,noir,false
+ 547,TV Philips 55PUS7855,1050,3,,Disponible,philips,11,noir,true
+ 548,SMART TV Hisense 58A7100F,1463,26,,Disponible,hilsense,8,noir,false
+ 549,TV Philips 32PHS6605,1386,27,,Disponible,philips,11,noir,true
+ 550,TV Panasonic TX-65HZ980E,559,13,,Disponible,panasonic,7,noir,false
+ 551,TV Panasonic TX-55HZ1500E,697,92,,Disponible,panasonic,11,argent,false
+ 552,TV Sony KD49XH8077SAEP,971,39,,Disponible,sony,6,noir,false 
+ 553,TV Philips 58PUS7505,1389,13,,Disponible,philips,9,argent,true
+ 554,TV intelligente Sony Bravia KD49XH8096,1151,148,,Disponible,sony,6,blanc,false
+ 555,TV Panasonic TX-40FS503E,1010,96,,Disponible,panasonic,9,argent,true
+ 556,TV Samsung UE43TU7172,785,24,,Disponible,samsung,8,argent,false
+ 557,TV LG 55UN7100 Smart,513,16,,Disponible,lg,7,noir,false
+ 558,TV LED Panasonic,1157,73,,Disponible,panasonic,7,noir,true
+ 559,TV LG 55UN7100 Smart,1308,147,,Disponible,lg,5,argent,true
+ 560,TV LG NanoCell 49NANO86,644,81,,Disponible,lg,7,argent,true
+ 561,TV LG 55UN7100 Smart,885,129,,Disponible,lg,7,blanc,true
+ 562,TV Panasonic TX-65FZ800E,975,133,,Disponible,panasonic,7,noir,true
+ 563,TV Sony KDL32W6100BAEP,1487,32,,Disponible,sony,9,blanc,true
+ 564,TV Panasonic TX-58EX700E ,1295,6,,Disponible,panasonic,7,blanc,false
+ 565,TV Samsung 43TU7025,1376,101,2021-06-18,Bientôt Disponible,samsung,5,noir,true
+ 566,TV LG OLED55BX,579,78,,Disponible,lg,9,argent,false
+ 567,TV Philips 58PUS7505,1300,131,,Disponible,philips,8,blanc,false
+ 568,TV LG OLED55BX,1447,58,,Disponible,lg,8,blanc,false
+ 569,TV Philips 24PFS5505,1319,125,,Disponible,philips,9,blanc,true 
+ 570,TV Panasonic TX-55HX970E,950,91,,Disponible,panasonic,10,argent,true
+ 571,TV Hisense 65U8QF,500,86,,Disponible,hilsense,11,blanc,true
+ 572,TV Samsung Neo QE55QN85A UHD,1121,87,,Disponible,samsung,7,noir,true
+ 573,TV Philips 32PFS6805,881,118,,Disponible,philips,11,blanc,false
+ 574,TV Samsung UE65TU7125,537,61,,Disponible,samsung,11,argent,false
+ 575,TV Hisense 40A5700FA,1289,15,,Disponible,hilsense,6,noir,false
+ 576,TV Samsung 55TU7025,1082,138,,Disponible,samsung,9,argent,false
+ 577,TV Hisense H40B5600,651,40,,Disponible,hilsense,6,blanc,false
+ 578,TV Panasonic TX-55HZ980E,1159,78,,Disponible,panasonic,6,argent,false
+ 579,TV Philips The One 43PUS8545,1037,89,,Disponible,philips,10,blanc,true
+ 580,TV Samsung 55TU7025,618,101,2021-11-22,Bientôt Disponible,samsung,8,blanc,false 
+ 581,TV Philips The One 70PUS8545,1363,76,,Disponible,philips,8,argent,true
+ 582,TV Philips The One 43PUS8545,1545,108,,Disponible,philips,6,argent,true
+ 583,TV Samsung UE65TU7125,1010,131,,Disponible,samsung,7,blanc,false
+ 584,TV Panasonic TX-55HX970E,1248,100,,Disponible,panasonic,7,blanc,true
+ 585,TV Philips 43PUS7855,1393,21,,Disponible,philips,10,blanc,true
+ 586,TV Smart Hisense ,652,114,,Disponible,hilsense,11,argent,true
+ 587,TV Panasonic TX-49HX970E,1401,75,,Disponible,panasonic,7,argent,true
+ 588,TV Philips The One 58PUS8545,1409,3,,Disponible,philips,7,blanc,true
+ 589,TV Philips The One 58PUS8545,557,142,,Disponible,philips,6,argent,true
+ 590,TV LG 55NANO816NA,860,80,,Disponible,lg,10,argent,true 
+ 591,TV LG OLED77CX,1028,57,,Disponible,lg,7,blanc,false
+ 592,TV LG OLED48CX,1055,146,,Disponible,lg,10,blanc,false
+ 593,TV Hisense 50A7100F,778,52,,Disponible,hilsense,11,argent,true
+ 594,TV LG NanoCell 65NANO86,1442,13,,Disponible,lg,7,noir,true
+ 595,TV LG OLED65CX ,1312,124,,Disponible,lg,6,blanc,false
+ 596,TV Philips The One 50PUS8545,1369,26,,Disponible,philips,8,blanc,true
+ 597,TV LG OLED55CX ,1241,114,,Disponible,lg,6,argent,false
+ 598,TV Samsung QE85Q950TS,895,94,,Disponible,samsung,9,argent,true
+ 599,TV Sony 65X7056 LED,1096,55,,Disponible,sony,7,noir,false
+ 600,NTV LG 43UN7390OM,630,145,,Disponible,lg,11,argent,false 
+ 601,Apple iPhone SE ,738,58,,Disponible,apple,0.3,blanc,true
+ 602,Apple iPhone 12,748,86,,Disponible,apple,0.4,or,false
+ 603,Smartphone Honor 9X Lite,261,84,,Disponible,honor,0.4,vert,true
+ 604,Smartphone Samsung Galaxy S12,360,26,,Disponible,samsung,0.3,rouge,false
+ 605,Apple iPhone X,275,30,,Disponible,apple,0.3,or,false
+ 606,Smartphone Honor 10X Lite ,502,47,,Disponible,honor,0.2,argent,false
+ 607,Apple iPhone 11 plus,568,167,,Disponible,apple,0.4,vert,true
+ 608,Smartphone Huawei D2G,849,60,,Disponible,huawei,0.3,rouge,true
+ 609,Apple iPhone SE ,435,67,,Disponible,apple,0.4,bleu,true
+ 610,Smartphone Honor 9A,598,190,,Disponible,honor,0.5,or,true
+ 611,Smartphone Huawei 23G,484,3,,Disponible,huawei,0.2,rouge,true
+ 612,Smartphone Xiaomi Redmi Note 10S,612,152,,Disponible,xiaomi,0.2,argent,true
+ 613,Smartphone Xiaomi Redmi Note 10,402,101,,Disponible,xiaomi,0.5,rouge,false
+ 614,Smartphone Samsung Galaxy A10,475,166,,Disponible,samsung,0.2,or,true
+ 615,Apple iPhone 11,768,185,,Disponible,apple,0.3,vert,false
+ 616,Smartphone Samsung Galaxy S7,689,54,,Disponible,samsung,0.4,noir,true
+ 617,Smartphone Honor 9X,543,28,,Disponible,honor,0.3,blanc,false
+ 618,Apple iPhone 10S,418,172,,Disponible,apple,0.5,or,true
+ 619,Smartphone Samsung Galaxy S10 plus,848,139,,Disponible,samsung,0.4,blanc,false
+ 620,Apple iPhone 7,615,43,,Disponible,apple,0.4,or,true
+ 621,Apple iPhone 11 max,785,123,,Disponible,apple,0.3,rouge,false
+ 622,Smartphone Xiaomi Redmi Note 10,417,95,,Disponible,xiaomi,0.3,vert,true
+ 623,Smartphone Xiaomi Redmi Note 2G,570,88,,Disponible,xiaomi,0.4,blanc,true
+ 624,Apple iPhone 7 plus,180,10,2021-09-26,Bientôt Disponible,apple,0.3,vert,true
+ 625,Smartphone Xiaomi Redmi Note 9S,292,171,,Disponible,xiaomi,0.4,rouge,true
+ 626,Apple iPhone 8,891,32,,Disponible,apple,0.2,bleu,false
+ 627,Smartphone Samsung Galaxy S10,642,52,,Disponible,samsung,0.5,bleu,true
+ 628,Smartphone Huawei D2G lite,375,88,,Disponible,huawei,0.3,blanc,true
+ 629,Smartphone Samsung Galaxy A10,336,4,,Disponible,samsung,0.3,rouge,true
+ 630,Smartphone Samsung Galaxy A71,590,54,,Disponible,samsung,0.4,argent,false
+ 631,Apple iPhone 12 mini,445,153,,Disponible,apple,0.3,blanc,true
+ 632,Smartphone Samsung Galaxy A12,696,65,,Disponible,samsung,0.2,bleu,true
+ 633,Apple iPhone 12 pro max,308,97,,Disponible,apple,0.2,noir,true
+ 634,Smartphone Xiaomi Mi 9S Lite ,858,80,,Disponible,xiaomi,0.3,or,true
+ 635,Smartphone Huawei P30 Lite,488,167,,Disponible,huawei,0.3,rouge,true
+ 636,Smartphone Samsung Galaxy S11,790,196,,Disponible,samsung,0.4,bleu,false
+ 637,Smartphone Samsung Galaxy SS plus,769,110,,Disponible,samsung,0.3,rouge,true
+ 638,Apple iPhone SE 2G,770,23,,Disponible,apple,0.3,vert,false
+ 639,Smartphone Samsung Galaxy A10,587,122,,Disponible,samsung,0.2,blanc,false
+ 640,Smartphone Honor 9X,297,24,,Disponible,honor,0.2,noir,false
+ 641,Smartphone Honor XL,785,32,,Disponible,honor,0.5,bleu,true
+ 642,Smartphone Honor XS,392,77,,Disponible,honor,0.3,or,true
+ 643,Smartphone Honor 9X,733,130,,Disponible,honor,0.3,argent,false
+ 644,Smartphone Xiaomi Mi 11 Lite ,247,197,,Disponible,xiaomi,0.3,or,false
+ 645,Smartphone Samsung Galaxy A10s,201,74,,Disponible,samsung,0.4,blanc,true
+ 646,Smartphone Samsung Galaxy A10s plus,745,0,,Disponible,samsung,0.3,argent,false
+ 647,Smartphone Honor 10 Lite,843,147,,Disponible,honor,0.3,rouge,false
+ 648,Smartphone Samsung Galaxy SS,645,127,,Disponible,samsung,0.3,noir,false
+ 649,Smartphone Honor 9X Double,452,109,,Disponible,honor,0.2,noir,true
+ 650,Smartphone Xiaomi Redmi 3g,702,170,,Disponible,xiaomi,0.5,argent,true
+ 651,Smartphone Huawei P40 Lite,864,130,,Disponible,huawei,0.3,or,true
+ 652,Smartphone Xiaomi Mi 11 XX,396,120,,Disponible,xiaomi,0.3,bleu,false
+ 653,Smartphone Huawei Duo,538,17,,Disponible,huawei,0.2,or,false
+ 654,Smartphone Huawei Duo XS,773,173,,Disponible,huawei,0.2,blanc,false
+ 655,Smartphone Huawei P45,642,142,,Disponible,huawei,0.4,bleu,false
+ 656,Smartphone Xiaomi Mi 11 Bold,835,146,,Disponible,xiaomi,0.3,or,true
+ 657,Apple iPhone 12 ,542,135,,Disponible,apple,0.5,argent,true
+ 658,Smartphone Huawei SL5 light,338,30,,Disponible,huawei,0.2,bleu,false
+ 659,Apple iPhone 12,288,129,,Disponible,apple,0.3,vert,true
+ 660,Smartphone Samsung Galaxy S9,883,78,,Disponible,samsung,0.3,noir,true
+ 661,Smartphone Huawei SL5,171,123,,Disponible,huawei,0.3,noir,false
+ 662,Smartphone Samsung Galaxy A20e,593,32,,Disponible,samsung,0.2,or,false
+ 663,Apple iphone SE,650,77,,Disponible,apple,0.5,argent,true
+ 664,Apple iPhone 6S plus,190,10,,Disponible,apple,0.4,or,false
+ 665,Apple iPhone 12 ,529,25,,Disponible,apple,0.2,argent,false
+ 666,Smartphone Samsung Galaxy A51,900,122,,Disponible,samsung,0.4,or,false
+ 667,Smartphone Xiaomi Mi 10T Bold,348,14,,Disponible,xiaomi,0.3,noir,false
+ 668,Smartphone Huawei IIIG light,698,168,,Disponible,huawei,0.3,bleu,false
+ 669,Smartphone Huawei IIIG,742,110,,Disponible,huawei,0.4,or,false
+ 670,Apple iPhone SE,362,47,,Disponible,apple,0.3,rouge,false
+ 671,Smartphone Huawei 2G light,474,118,,Disponible,huawei,0.4,argent,true
+ 672,Smartphone Honor Mini,339,117,,Disponible,honor,0.5,argent,true
+ 673,Smartphone Honor S Mini,405,33,,Disponible,honor,0.3,noir,true
+ 674,Smartphone Huawei 2G,712,84,,Disponible,huawei,0.4,vert,false
+ 675,Smartphone Xiaomi MTTV,677,168,,Disponible,xiaomi,0.3,rouge,false 
+ 676,Smartphone Samsung Galaxy S9,742,194,,Disponible,samsung,0.4,rouge,false
+ 677,Smartphone Honor BreakII,667,172,,Disponible,honor,0.4,vert,false 
+ 678,Smartphone Huawei PSmart,218,70,,Disponible,huawei,0.2,bleu,false
+ 679,Smartphone Honor BreakIII,458,156,,Disponible,honor,0.5,rouge,true
+ 680,Smartphone Honor BreakIII,664,196,,Disponible,honor,0.5,noir,true
+ 681,Smartphone Huawei PSmart,509,94,,Disponible,huawei,0.2,vert,false 
+ 682,Smartphone Xiaomi Redmi Note 10,473,2,,Disponible,xiaomi,0.3,vert,true
+ 683,Smartphone Xiaomi Mi 10T Lite,550,172,,Disponible,xiaomi,0.4,rouge,true
+ 684,Smartphone Huawei P40 Lite,756,54,,Disponible,huawei,0.5,bleu,true
+ 685,Smartphone Xiaomi Redmi Note 1G,895,188,,Disponible,xiaomi,0.3,bleu,true
+ 686,Apple iPhone 12 Pro Max,513,74,,Disponible,apple,0.3,bleu,false
+ 687,Smartphone Samsung Galaxy S4,734,123,,Disponible,samsung,0.4,argent,true
+ 688,Smartphone Honor 9A,880,93,,Disponible,honor,0.3,vert,true
+ 689,Apple iPhone XR plus,587,156,,Disponible,apple,0.5,or,true
+ 690,Apple iPhone XR,396,21,,Disponible,apple,0.3,bleu,true
+ 691,Smartphone Honor 20,845,186,,Disponible,honor,0.2,noir,true
+ 692,Apple iPhone SE,617,98,,Disponible,apple,0.5,vert,true
+ 693,Smartphone Xiaomi Redmi Note 9 Pro max,629,146,,Disponible,xiaomi,0.3,argent,false
+ 694,Smartphone Xiaomi Redmi Note 9 Pro,853,169,,Disponible,xiaomi,0.2,blanc,true
+ 695,Apple iPhone XR,587,115,,Disponible,apple,0.4,or,true
+ 696,Smartphone Xiaomi Mi 10T,828,0,,Disponible,xiaomi,0.4,vert,false
+ 697,Smartphone Samsung Galaxy S5,429,101,,Disponible,samsung,0.3,or,true 
+ 698,Smartphone Xiaomi Redmi Note 9S,598,6,,Disponible,xiaomi,0.5,rouge,true
+ 699,Smartphone Honor 9A,694,145,,Disponible,honor,0.4,rouge,false
+ 700,Smartphone Samsung Galaxy S8,687,124,,Disponible,samsung,0.4,blanc,false
+ 701,Ecran PC Lenovo D24-20,343,22,,Disponible,lenovo,1,noir,false
+ 702,Ecran PC Dell S2721QS-V0,187,79,,Disponible,dell,1.5,noir,true
+ 703,Ecran PC Samsung Odyssey G7 ,316,63,2021-06-11,Non Disponible,samsung,2,vert,true
+ 704,Ecran PC Gaming Samsung Odyssey G3,384,76,,Disponible,samsung,1.5,vert,true
+ 705,Ecran Gaming Msi Optix TT1,270,76,,Disponible,msi,2.5,vert,true
+ 706,Ecran Gaming Msi Optix TT4,205,8,2021-07-11,Bientôt Disponible,msi,1,blanc,true
+ 707,Ecran PC Gaming HP Omen,199,10,,Disponible,hp,1,vert,true
+ 708,Ecran Gaming Msi Optix TT2,316,58,,Disponible,msi,2.5,noir,false
+ 709,Ecran HP BB8,342,84,,Disponible,hp,2,noir,false
+ 710,Ecran Gaming Msi Optix TT3,310,70,2021-07-15,Bientôt Disponible,msi,1,noir,true
+ 711,Ecran Gaming Msi Optix TT1,158,63,,Disponible,msi,1.5,vert,false
+ 712,Ecran PC Dell S2721QS-V3,324,77,,Disponible,dell,1,blanc,true
+ 713,Ecran PC Dell S2721QS-V7,236,52,,Disponible,dell,1,vert,true
+ 714,Ecran PC Lenovo D24-25,142,84,,Disponible,lenovo,1.5,vert,false
+ 715,Ecran PC Dell S2721QS,285,8,,Disponible,dell,2.5,vert,false
+ 716,Ecran Gaming Msi Optix V2,377,29,,Disponible,msi,2.5,blanc,false
+ 717,Ecran Gaming Msi Optix V5,290,26,,Disponible,msi,2,vert,true
+ 718,Ecran HP V5-S,393,70,,Disponible,hp,1,vert,false
+ 719,Ecran PC Gaming Samsung Odyssey G2,176,73,,Disponible,samsung,2.5,blanc,false
+ 720,Ecran PC Lenovo D24-25,268,70,,Disponible,lenovo,2,blanc,false
+ 721,Ecran HP V5-TS,295,89,2021-08-11,Non Disponible,hp,1.5,gris,true
+ 722,Ecran PC Dell S2721QS-V2,199,17,,Disponible,dell,1.5,noir,true
+ 723,Ecran PC Gaming HP Omen,258,88,,Disponible,hp,2.5,noir,false
+ 724,Ecran HP 36s,190,64,,Disponible,hp,2,gris,true
+ 725,Ecran PC Lenovo D26,205,82,,Disponible,lenovo,1,noir,true
+ 726,Ecran PC Lenovo D27,382,37,2021-08-11,Bientôt Disponible,lenovo,1,gris,true
+ 727,Ecran HP VV2,220,91,,Disponible,hp,2,vert,true
+ 728,Ecran PC Lenovo D28,137,28,,Disponible,msi,2,noir,false
+ 729,Ecran PC Gaming HP Omen,386,34,,Disponible,hp,1,vert,true
+ 730,Ecran PC Gaming Samsung Odyssey G3,226,62,,Disponible,samsung,1.5,gris,true
+ 731,Ecran HP YMS,208,4,,Disponible,hp,2.5,noir,false
+ 732,Ecran PC Dell S2721QS-V5,146,36,,Disponible,dell,1.5,vert,true
+ 733,Ecran PC Dell S2721QS,191,6,,Disponible,dell,2.5,noir,false
+ 734,Ecran HP 33s,390,34,,Disponible,hp,2.5,noir,false
+ 735,Ecran PC Lenovo D28-V5,277,25,,Disponible,lenovo,1,gris,false
+ 736,Ecran PC Samsung Odyssey G4,353,68,,Disponible,samsung,2.5,noir,false
+ 737,Ecran PC Lenovo D11,228,80,,Disponible,lenovo,1.5,gris,false
+ 738,Ecran PC Gaming MSI Optix,156,22,,Disponible,msi,1,blanc,false
+ 739,Ecran PC Samsung Odyssey,230,37,,Disponible,samsung,2.5,vert,false
+ 740,Ecran PC HP V27i ,130,50,2021-07-20,Non Disponible,hp,2.5,noir,true
+ 741,Ecran PC Gaming Samsung Odyssey G6 ,340,39,,Disponible,samsung,1.5,vert,false
+ 742,Ecran PC Lenovo D33,361,86,,Disponible,lenovo,1,vert,true
+ 743,Ecran PC Dell S2721QS,166,94,2021-09-05,Bientôt Disponible,dell,2.5,blanc,true
+ 744,Ecran Gaming Msi Optix,273,64,,Disponible,msi,1.5,gris,true
+ 745,Ecran PC Dell S2721QS-V0,172,51,,Disponible,dell,1.5,noir,false
+ 746,Ecran PC Dell S2721QS-V0,144,58,,Disponible,dell,2.5,gris,true
+ 747,Ecran PC HP 24F,223,23,,Disponible,hp,2,gris,false
+ 748,Ecran Gaming MSI Optix G271,149,4,,Disponible,msi,1,noir,true
+ 749,Ecran PC Lenovo D61,349,2,2021-08-01,Non Disponible,lenovo,2.5,gris,false
+ 750,Ecran PC Dell S2721QS-V6,310,72,,Disponible,dell,1.5,gris,true
+ 751,Ecran PC Gaming MSI Optix,232,84,,Disponible,msi,1,blanc,true
+ 752,Ecran PC Gaming MSI Optix,394,62,2021-12-03,Non Disponible,msi,2.5,blanc,false
+ 753,Ecran PC Dell S2721QS,245,32,,Disponible,dell,2.5,vert,false
+ 754,Ecran HP 32s,232,33,,Disponible,hp,1,blanc,true
+ 755,Ecran PC Dell S2721QS-V1,384,54,,Disponible,dell,1,noir,true
+ 756,Ecran HP CC8,348,66,,Disponible,hp,1.5,blanc,true
+ 757,Ecran HP DD8,160,78,,Disponible,hp,1,vert,true
+ 758,Ecran PC Lenovo D24-21,354,9,,Disponible,lenovo,2,noir,true
+ 759,Ecran PC Gaming msi Optix G241VC,334,24,,Disponible,msi,1,noir,true
+ 760,Ecran PC Gaming Samsung Odyssey G6  ,383,100,2021-10-28,Bientôt Disponible,samsung,2.5,blanc,false
+ 761,Ecran HP 32s,391,94,,Disponible,hp,1,vert,false
+ 762,Ecran PC Lenovo D24-21,338,63,,Disponible,lenovo,1.5,noir,false
+ 763,Ecran PC Samsung Odyssey ,341,39,,Disponible,samsung,2.5,blanc,true
+ 764,Ecran PC Dell S2721QS-V1,378,88,,Disponible,dell,1.5,gris,false
+ 765,Ecran Gaming MSI Optix G241,351,70,2021-11-11,Non Disponible,msi,2.5,blanc,false
+ 766,Ecran HP DD8,374,42,,Disponible,hp,2.5,noir,true
+ 767,Ecran PC Lenovo DX5,301,66,2021-10-05,Non Disponible,lenovo,1.5,vert,false
+ 768,Ecran PC Lenovo DX9-20,318,31,,Disponible,lenovo,2,noir,true
+ 769,Ecran PC Lenovo DX4-20,152,5,,Disponible,lenovo,2.5,vert,false
+ 770,Ecran HP VV4,318,13,,Disponible,hp,2,vert,false
+ 771,Ecran PC Samsung Odyssey ,305,24,,Disponible,samsung,1.5,vert,true
+ 772,Ecran HP B6B,162,89,,Disponible,hp,1.5,noir,false
+ 773,Ecran HP 1-1,255,71,,Disponible,hp,1.5,gris,true
+ 774,Ecran PC Dell S2721QS-V2,360,2,,Disponible,dell,2,vert,true
+ 775,Ecran PC Dell S2721QS-V3,288,62,,Disponible,dell,2,gris,false
+ 776,Ecran Gaming MSI Optix G241,260,87,2021-06-30,Non Disponible,msi,1,noir,true
+ 777,Ecran PC Lenovo D24-23,303,68,,Disponible,lenovo,1,noir,false
+ 778,Ecran PC Lenovo D24-23,176,80,,Disponible,lenovo,2,gris,true
+ 779,Ecran HP VI2,364,87,2021-12-02,Bientôt Disponible,hp,2.5,vert,true
+ 780,Ecran HP BLAST,267,77,,Disponible,hp,2,gris,false
+ 781,Ecran PC Gaming Samsung Odyssey G5  ,273,26,,Disponible,samsung,2,noir,true
+ 782,Ecran HP 11s,195,1,,Disponible,hp,2,noir,true
+ 783,Ecran PC Samsung Odyssey ,184,24,2021-06-21,Non Disponible,samsung,2,blanc,true
+ 784,Ecran PC Dell S2721QS-V2,174,76,,Disponible,dell,2,blanc,true
+ 785,Ecran HP V-7B,383,80,,Disponible,hp,1,gris,true
+ 786,Ecran PC Gaming Samsung Odyssey G5  ,336,15,,Disponible,samsung,2,vert,true
+ 787,Ecran PC Samsung Odyssey ,317,69,,Disponible,samsung,1.5,gris,true
+ 788,Ecran HP BLC,307,70,,Disponible,hp,1,noir,false
+ 789,Ecran PC Samsung Odyssey ,278,0,,Disponible,samsung,2,noir,true
+ 790,Ecran Samsung S24R352FHU,236,57,2021-07-29,Bientôt Disponible,samsung,1,vert,true
+ 791,Ecran PC Dell S2721QS,320,43,,Disponible,dell,1,noir,true
+ 792,Ecran PC Lenovo X3Z,167,79,,Disponible,lenovo,1,vert,true
+ 793,Ecran PC Gaming MSI Optix,194,34,2021-12-12,Non Disponible,msi,1.5,blanc,false
+ 794,Ecran PC Lenovo D24-29,366,95,,Disponible,lenovo,1,gris,false
+ 795,Ecran PC Gaming MSI Optix,277,17,,Disponible,msi,1,blanc,false
+ 796,Ecran Samsung S24R352FHU,251,72,,Disponible,samsung,2.5,blanc,false
+ 797,Ecran HP ZLZ,181,92,,Disponible,hp,2.5,blanc,false
+ 798,Ecran HP VR4,392,32,2021-09-02,Non Disponible,hp,1.5,blanc,false
+ 799,Ecran HP VB6,142,19,,Disponible,hp,1.5,noir,true
+ 800,Ecran PC Lenovo D24-22,329,43,,Disponible,lenovo,2.5,noir,true
