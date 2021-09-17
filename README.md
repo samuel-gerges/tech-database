@@ -4,9 +4,9 @@ données d’un site de e-commerce.
 Auteurs
 -------
 
-GERGES Samuel 71804327
+GERGES Samuel
 
-JAMI Adam 71803537
+JAMI Adam
 
 Contenu des fichiers
 --------------------
