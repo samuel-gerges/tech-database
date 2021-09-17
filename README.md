@@ -1,4 +1,7 @@
-Membres
+L’objectif du projet est la modélisation, le peuplement, et la mise en place d’une base de
+données d’un site de e-commerce.
+
+Auteurs
 -------
 
 GERGES Samuel 71804327
